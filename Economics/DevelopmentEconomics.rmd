@@ -1,0 +1,143 @@
+---
+title: Development Economics
+author: Sauhaard
+output: pdf_document
+---
+
+
+\newpage
+# Economic Development
+
+## What is economic development?
+
+### Sen's Definition: 
+The process of improving peoples well being and quality of life, involving improvement in standards of living, reduction in poverty, improved health and education, along with increased freedom and economic choice.
+
+### Todaro's Definition: 
+* Availability and distribution of life sustaining goods, such as food, shelter and health
+* An increase in standards of living
+* Expansion and economic and social choice
+
+
+Development is a bit of a normative concept, and we cannot define it neatly.
+
+# Economic Growth vs Development
+
+## Growth
+
+Growth does not equal development. Just because there is high GDP growth, that doesn't mean it is developing.
+
+### Why is growth good for development?
+
+Health, jobs and infrastructure are the big drivers of development.
+
+* This leads to higher incomes
+   * Better jobs and better quality of life as they can afford more material goods
+   * Income inequality may go down
+   * A reduction in poverty for people in the economy
+* Firms will make higher profits
+  * Firms will have more confidence in the economy
+    * This leads to them hiring more people
+    * Make greater sales as the economy grows
+    * If they reinvest their higher profits into research and development, that can lead to innovations in technology
+      * This allows the economy to move away from the agriculture sector and help advance the economy (such as moving away from agriculture and moving to service sector)
+  * High job creation as firms will want to employ more people to meet their demands (due to economic growth)
+* Fiscal dividends: Higher fiscal revenues for the government
+  * The government can then spend money on things such as infrastructure and help develop the economy even further   
+
+### However, growth is not all encompassing
+* There is no guarantee that growth will be distributed equally
+  * This means that the standard of living has not increased for all people
+  * Income inequality may hinder development as most of the money may be going to a small number of people
+* Negative externalities and problems with sustainability arise from growth
+  * In the short term this is great for growth, but in the long run, the resources will disappear thanks to unsustainable growth
+    * Without these resources then, the economy will suffer
+  * Also pollution from growth reduces the people's living standards in the economy
+    * This is a drag on the economic DEVELOPMENT
+* Is the growth just in one sector?
+  * If the growth is happening in 1 sector, this is not going to help develop the entire economy.
+  * Such as Nigeria, they have a massive oil sector that drives most of their GDP, but that doesn't mean that money is being spread around to the rest of the economy
+
+Inclusive growth (growth for everyone) is GOOD, but noninclusive growth is not.
+Growth is necessary but NOT sufficient on it's own to make a country more economically DEVELOPED. 
+
+# Common Characteristics of Developing Countries
+
+- Low standards of living
+  - Low incomes
+  - High poverty
+  - Bad job creation
+- Low levels of productivity
+  - Lack of investment
+  - Lack of capital, and lack of availability of capital
+  - This means very low productivity
+- Low level of savings means they are trapped in very poorly paid jobs, meaning the chances of getting out of the poverty trap is very low
+  - Lack of education on where to save and how to save the money
+  - They may not even have money to save as they are on such low incomes
+- High population growth  
+  - They tend to give birth to lots of children because they are made to work in the farm to help the family
+- Primary sector dependence
+  - Agriculture is normally the largest sector of the economy
+  - These countries tend to be well endowed with natural resources
+    - This means they put all of their factors of production in producing/ extracting those natural resources
+  - But due to low productivity and poor capital, this doesn't necessarily mean they will have very much economic growth
+- Incomplete markets
+  - Lack of property rights
+  - Their currencies tend to not be very strong, countries don't really want their money
+- High unemployment/ underemployment
+  - High unemployment is due to the fact that the agricultural sector is dominant, which has low productivity
+  - Low savings means there is not a lot of investment
+    - Low capital
+  - This hinders employment as it becomes very difficult to find one as there is not a lot of investment
+  - Those that do find jobs can find themselves underemployed
+  - There may even be a lot of people that do not want to be employed
+    - This is the hidden unemployment of the economy
+    - This means that the real unemployment rate may even be higher than what it is currently shown as
+- Low economic power on the international stage
+  - This means they cannot fight trade wars
+  - They don't have much of a say internationally
+  - They can't ask about finance very easily
+  - Ultimately, they cannot get their voice across in the international stage
+
+## But
+
+- Not all developing countries will have the same number of characteristics
+- Different countries will have different political structures, different cultures, different friends, etc.
+
+
+# Measures of economic development
+
+## Single Indicators
+These are indicators that look at just 1 thing.
+
+- GDP per Capita
+  - This is the average income per person in the economy.
+  - GDP doesn't tell us about negative externalities, pollution, income inequality, etc.
+  - What we tend to use instead of GDP/Capita is Gross National Income
+    - GNI looks at the income generated by all of the country's factors of production regardless of the location
+    - Labour is a classic example, people from a country may leave and work abroad, but then they send money back home
+    - A lot of the money tends to be repatriated
+    - Also, developing countries can attract lots of FDI
+      - But a lot of the money made by the TNC's tend to be repatriated back into the TNC's home country
+  - If we use either GNI or GDP/capita, we want to have them in terms of Purchasing Power Parity
+    - This allows us to have better comparisons between the standards of living in each country
+    - This is because different countries have different prices for goods and services, so adjusting for PPP is good
+- Health measures
+  - Such as: Life expectancy, and infant mortality
+  - Improvements in health imply:
+    - Increasing life expectancy implies that the health care treatment is getting better in the country
+    - Also means that there are lots of doctors, implying that there are lots of jobs for higher skilled people
+    - Doctors need to go to higher education so it also implies that the education in the country is improving
+    - Sanitation may be another thing that is improving in the economy to allow people living longer
+    - Access to hospitals may be very high
+    - Education on prevention of these diseases may also be very high
+  - 
+- Education Measures
+  - Such as: Adult literacy and enrolment in primary education
+  - Improvements in education imply:
+    - That educational institutions are strong
+    - There are teachers getting jobs to educate people
+    - Potential for higher skill jobs improves
+    - Number of people that can do higher skill jobs improves
+      - This leads to lower unemployment
+      - Leading to higher incomes for the country
