@@ -1,0 +1,450 @@
+---
+title: "Economics: Theme 1 Notes"
+author: written by Sauhaard Poudel
+output: pdf_document
+geometry: margin=1.5cm
+---
+
+\tableofcontents
+
+\newpage
+
+
+
+# The Economic Problem
+
+**The basic economic problem is** that there are infinite wants, but finite resources.
+
+## The 4 Factors Of Production:
+1. **Capital**: Man made aids to production
+2. **Enterprise**: Entrepeuners, they aim to maximise profits.
+3. **Land**: Natural resources such as oil or a plot of land.
+4. **Labour**: Human resources such as workers.
+
+## Opportunity Cost
+
+**Opportunity cost** is the next best alternative foregone.
+
+### Importance of Opportunity Cost's:
+
+- **Consumers** want to maximise utility
+- **Firms** want to maximise profits
+- **Government** aims to maximise citizen welfare
+
+# Economics As A Social Study
+
+## The Assumption Of Ceteris Paribus:
+
+Economists make the assumption that events happen with ceteris paribus.
+
+**Ceteris paribus:** The assumption that all other factors remain constant.
+
+**Positive statements:** A factual statement. 
+
+- With these statements, you can either be true or false.
+- You can remember this by thinking that whoever makes a *factual* statement, must be *positive* that he is right.
+
+**Normative statements:** A value judgement.
+
+# Production Possibility Frontiers
+
+**The production possibility frontier shows:** 
+
+1. The maximum possible output of an economy, given the current resources and technology.
+2. The various combinations of 2 goods/ services that can be produced, given the factors of production and technology.
+
+
+![PPF Curve](Images/Theme1/PPF.png)\
+
+
+Any shifts outwards of the PPF displays economic growth.
+
+The economy can not produce beyond the curve, except for in the very short run.
+
+**Capital goods** are goods that are produced to be used in the production of other goods.
+
+**Consumer goods** are goods and services that are produced to satisfy consumer demands and wants.
+
+
+# Specialisation
+
+**What is specialisation?** Specialisation is when production is concentrated in a small number of goods.
+
+## Adam Smith's Contribution To Specialisation
+
+**Adam Smith** was the one who stated the concept of specialisation, and the division of labour.
+
+He said that labour productivity increases immensely, and therefore lowers the cost of production for firms.
+
+## The Division Of Labour
+
+**The division of labour is** when workers specialise in a particular part of the production process.
+
+
+### Advantages of the division of labour
+
+1. Labour productivity increases immensely
+2. Workers become more skilled in what they specialise in
+3. Specialisation leads to higher quality of goods being produced
+4. Workers can use specialist tools to further improve speed and quality of production
+5. Workers don't have to switch around and do any rotations which saves time
+6. Workers only need to be trained to do a single thing
+
+### Disadvantages of the division of labour
+
+1. Work can become very boring if you are just doing one thing
+   1. This can lead to poor quality goods being produced
+   2. People may lave because of dissatisfaction
+2. If one thing in the production process goes wrong, then all production has to stop.
+3. Workers do not gain as many skills if they have to specialise
+
+
+## Specialisation In The Production Of Goods And Services
+
+This is when **countries or firms** specialise in producing a few number of goods.
+
+### Advantages of specialisation in production
+
+1. The theory of comparative advantage is put into practice
+2. Increased trade and growth for an economy
+3. Larger varieties of goods and services will be available
+   - This is because when countries specialise, they usually also have free markets.
+   - Free markets allow consumers to imports goods that they want from abroad
+   - Another point to make is that if a country decides to specialise in one product, firms are likely to produce many different varieties of that product with small differences.
+     - If your country is very competitive in the production of this good, then your country can almost monopolise the market for that good.
+     - An example of this may be Germany and it's production of cars.
+
+### Disadvantages of specialisation in production
+
+1. Countries may overspecialise
+   - If the country becomes out competed then it will mean their industries will decline
+   -  This then leads to mass structural unemployment
+   -  An example of this is the mass de-industrialisation of Europe, all of their industrial jobs went China and Asia.
+2. High levels of interdependence for trade
+   - Since you are only producing a few number of goods, you require other countries to trade with you for the goods you don't produce.
+   - If a country places protectionist measures against you then it will lead to catastrophe as you can no longer make export revenue from the goods you specialise in making
+3. Natural resources may run out
+   - If your country specialises in the production of crude oil, then once it runs out, your main source of export revenue will be cut off
+
+
+# The Functions of Money
+
+There are 4 functions of money:
+
+1. **A medium of exchange**: Can be used to buy and sell goods
+2. **A measure of value**: Can be used to compare the values of different goods
+3. **A store of value**: It is able to retain its value and you can keep store your wealth in money
+4. **A method of deferred payment**: Money allows for debts to be created.
+
+# Free Markets And Command Economies
+
+## The Free Market:
+
+Adam Smith was a famous free market economist, he spoke of market forces as the "invisible hand".
+
+**What is a free market economy?** A free market economy, also known as a market economy, is an economy with minimal government intervention. The market is left to its own devices, and so the market dictates the allocation of scarce resources in the economy.
+
+### Advantages of a free market economy:
+
+1. The profit motive incentivises productive efficiency
+2. There is a higher level of freedom, and more choice in the goods you want to purchase
+3. Less bureaucracy from government intervention
+4. There is allocative efficiency
+
+### Problems with a free market economy:
+
+1. There may be over-production of demerit goods, or goods with negative externalities.
+2. Public goods will not be provided without *any* government intervention.
+3. The distribution of income may be unequal
+4. Monopolies/ oligopolies may form
+
+
+## The Command Economy:
+
+**What is a command economy?** A command economy is where the government centrally plans the allocation of all resources in the economy. The government is meant to allocate resources for the social good.
+
+Karl Marx was a famous command economist, he wrote the Communist Manifesto which lead the ideological charge in _killing_ 100's of millions.
+
+### Advantages of a command economy:
+
+1. It is easier to co-ordinate resource allocation during crisis, such as war time.
+2. The government can prevent market failure
+   - However there may be government failure thanks to the intervention.
+3. Inequality in society can be reduced
+
+### Disadvantages of a command economy:
+
+1. There may be massive government failure
+2. Governments tend to be less efficient with the allocation of resources compared to the free market
+3. The government may not produce things consumers want.
+4. Command economies reduce the levels of freedom in an economy.
+
+
+## Mixed Economies:
+
+**What is a mixed economy?** A mixed economy is an economy with features from both command, and free market economies.
+
+- Most countries in the world have mixed economies
+- The advantage of mixed economies is that the government can intervene when they need to, such as supplying public goods
+  - But they do not have the responsibility of allocating every single individual resource to everyone, which limits the scope of government failure
+
+
+# Demand
+
+**What is demand?** The quantity of goods and services consumers are willing to, and *able to* buy at any given price, within a given time period.
+
+## The Law Of Demand
+
+We know there is an inverse correlation between price and quantity demanded. The higher the price, the lower quantity is demanded.
+
+### Why does the law of demand occur?
+
+1. **The income effect:** As price increases, we cannot purchase as many goods with our income, lowering the quantity demanded.
+2. **Substitution effect:** As the price of good x increases, we can switch our demand to good *y* instead. 
+3. **Diminishing marginal utility:** The more quantity of a good we buy and consume, the utility gained also starts diminishing. This means we are less willing to pay higher prices for them.
+
+## What Can Shift The Demand Curve?
+
+**Remember PASIFIC**
+
+Shifts in the demand curve are caused by changes in the conditions of demand.
+
+1. **Population**: Higher population results in higher levels of demand for goods
+2. **Advertising**: Good advertising increases our willingness to buy a product
+3. **Substitute** pricing: An increase in the price of a substitute good results in an increase for our demand of this good
+4. **Income**: Higher incomes mean you can afford more goods.
+   - This is dependent on whether the good is an *inferior, normal or luxury good.*
+5. **Fashion** and tastes: If a good becomes more fashionable, then it will experience higher demand for it.
+6. **Interest** rates: If people have to borrow money to purchase the good, such as a car, then lower interest rates mean it will become cheaper to purchase the good.
+   - This means there will be more demand for the good
+7. Prices of **complementary** goods: If the price of a complementary good (good x) decreases, then the demand for it's complement good (good k) will increase.
+   - An example is printers and printer ink.
+
+# Supply
+
+**What is supply?** Supply is the quantity of a good or service that a producer is willing to, and able to produce at any given price point, within a given time period.
+
+## Law Of Supply
+
+**What is the law of supply?** There is a direct relationship between price and quantity supplied. As price increases, quantity supplied will too.
+
+### Why does the law of supply occur? 
+
+Firms want profits so if prices increase, they will want to supply more goods.
+
+## What Can Shift The Supply Curve?
+
+**Shifts are caused by changes to the cost of production. Remember _PINT SWC_**
+
+1. **Productivity**: Productivity is the output created by 1 unit of input.
+   - Increased productivity means increased productive efficiency, leading to increased quantity supplied.
+2. **Indirect tax**: Indirect taxes are paid partly by firms, increased indirect taxation means increased costs of production. This reduces supply.
+3. **Number of firms in the market**: More firms joining the market leads to more supply created.
+4. **Technology**: Technological improvements lead to innovation, which leads to lower production costs, leading to more supply.
+5. **Subsidies**: Subsidies are grants given to firms by government to encourage production. These grants lower their production costs, increasing their quantity supplied.
+6. **Weather**: If the good is produced only in a certain type of weather, then if that weather is not there, production will be decreased.
+7. **Cost of commodities and other things linked to production**
+   - Increases in prices of commodities leads to higher production costs, such as oil
+   - Increased minimum wage leads to higher costs
+   - Increased transport costs (can be caused by carbon tax)
+   - Increased regulation increases production costs
+ 
+
+# The Market Equilibrium
+
+**What is a market?** A market is any place where buyers meet suppliers to exchange goods and services.
+
+**Equilibrium** is where *demand = supply*
+
+## Excess Supply In A Market
+
+**Excess supply is caused by the price being above equilibrium.**
+
+![Excess Supply](Images/Theme1/ExcessSupply.png)\
+
+When price is at p2, you can see that excess supply is created (the orange).
+
+## Excess Demand In A Market
+
+**Excess demand is caused by a price below the equilibrium.**
+
+## How Does The Market Deal With Excess Supply/ Demand?
+
+**In a free market, disequilibrium never lasts because of market forces.**
+
+**Remember ARSI**: Allocation, Rationed, Signals and Incentives.
+
+### Dealing with excess supply
+
+1. A **signal** is sent that the price is too high. This is because firms notice that they have unsold product in their stocks.
+2. There is now an **incentive** for them to lower prices, and sell the rest of their stocks.
+3. Once the price has been lowered to equilibrium, the excess supply has been **rationed**
+4. The **allocation** of scarce resources is now perfect.
+
+### Dealing with excess demand
+
+1. A **signal** is sent that the price is too low. This is because the product gets sold out way too quickly.
+2. There is now an **incentive** for them to increase prices, and sell the good at a higher price to maximise profits.
+3. Once the price has been increased to equilibrium, the excess demand has been **rationed**
+4. The **allocation** of scarce resources is now perfect.
+
+# The Price Mechanism
+
+**What is the price mechanism?** The price mechanism is what allocates resources in a free market.
+
+## The 3 Functions Of Price In Allocating Scarce Resources 
+
+1. **Rationing function**: If a good is rare (low supply), and it has high levels of demand, the price will rise for that good, to ration it.
+2. **Signalling function**: The price of goods give signals to buyers and sellers on whether they should buy/sell the good.
+   + For example, firms may see that the price of a good is increasing so they want to switch their production to produce it
+3. **Incentive function**: Prices act as an incentive to buyers and sellers to behave in a certain way
+   + An example is if the price is high for a good, then it will discourages buyers from purchasing as much, and encourages producers to produce more of it.
+   + These incentives ensure that the allocation of resources is at optimum levels.
+
+# Consumer And Producer Surplus
+
+## Consumer Surplus
+
+**Consumer surplus is** the difference between the prices consumers are *willing* to pay for a good, and what they *actually* pay for it.
+
+/ Diagram?
+
+
+## Producer Surplus
+
+**Producer surplus is** the difference between the prices the producer is *willing* to sell for, and the price they *actually* sell the good for.
+
+/ Diagram
+
+
+**Societal Surplus** is *producer surplus* **+** *consumer surplus*.
+
+
+
+\newpage
+
+# Elasticities
+
+## Price Elasticity Of Demand (PED)
+
+**What Is Price Elasticity Of Demand?** PED measures the responsiveness of how quantity demanded changes, when price changes.
+
+**Formula for PED:** 
+
+\begin{center} \begin{huge}$\frac{\% \vec{\Delta}In Quantity Demanded}{\% \vec{\Delta} In Price}$ \end{huge} \\ \end{center} \\
+
+
+- PED higher than 1 means price elastic (increase in price leads to bigger decrease in quantity demanded).
+- PED of 1 means unit price elastic (price and quantity demanded change proportionally).
+- 0 means perfectly price inelasticity (changes to price will never affect the amount of quantity demanded).
+- Infinity means perfectly price elastic (any change to price will lead to demand becoming 0).
+- PED lower than 1 means demand is price inelastic (demand is not very responsive to changes in prices).
+
+
+### What determines the price elasticity of demand?
+
+**Remember SPLAT**
+
+1. **The number of substitutes**: More substitutes leads to higher PED
+2. **The cost of the good as a % of your income**: Higher percentage means higher price elasticity of demand
+3. **Is the good a luxury or a necessity?**: Luxury goods will have a higher price elasticity of demand.
+4. **Is the good addictive or habit forming?**: Demand will likely be price inelastic if the good is addictive.
+5. **What is the time period?**: In the long run, demand tends to be more price elastic as consumers will have the time to adapt to any price changes, while in the short run, demand will likely be price inelastic.
+
+**Firms also use PED to maximise revenues:**
+
+- When their good has price inelastic demand, they *raise* prices, which then raises their revenue
+  - This is because price increases cause a less than proportional change to the quantity demanded
+- If their good has price elastic demand, they *decrease* prices, which causes their revenues to increase
+  - This is because price decreases cause a more than proportional change to the quantity demanded
+
+### Price elasticity of demand varies along the demand curve:
+
+- The **first half** of the demand curve is when demand is ***price elastic***.
+- The **middle** of any demand curve is when it is ***unit elastic***.
+  - Firms can *maximise their revenue* if they sell at this point.
+- The **bottom half** of the demand curve is when demand is  ***price inelastic***.
+
+
+
+## Income Elasticity Of Demand (YED)
+
+**What is income elasticity of demand?** YED measures the responsiveness of the change in quantity demanded when there is a change in to the income of a person.
+
+**Formula for YED:**
+
+\begin{center} \begin{huge}$\frac{\% \vec{\Delta}In Quantity Demanded}{\% \vec{\Delta}In Income}$ \end{huge} \\ \end{center} \\
+
+
+- An **inferior good** has a *negative* YED.
+- A **normal good** has a *positive* YED, bigger than 0.
+  - A rise in income also leads to a rise in demand.
+- A **luxury good** is a type of normal good, but when YED is *larger than* 1.
+  - Luxury goods have demands that are **income elastic**.
+
+### Why firms care about YED:
+
+Firms care about the YED of their good's as they can potentially *raise* prices when there is a boom (people have higher incomes). 
+
+
+## Cross Elasticity Of Demand (XED)
+
+**What is cross elasticity of demand?** XED measures the change in the quantity demanded of *good x* when there is a change in price of *good k*.
+
+**Formula for YED:**
+
+\begin{center} \begin{huge}$\frac{\% \vec{\Delta}InDemandOf Good X}{\% \vec{\Delta}InPriceOfGood K}$ \end{huge} \\ \end{center} 
+
+- A **positive** XED means the two goods are *substitutes*
+- A **negative** XED means they are *complementary* goods
+- A XED of **0** means there is no relationship at all and they are perfectly cross *inelastic*.
+
+
+### Why firms care about the XED of their products:
+
+1. If firms know that goods are *complementary*, then they can decrease the price of good x and increase the price of good k, which leads to potentially increased revenue.
+2. Also, if firms know that there is a rival good which is a substitute of their own, they can try competing on *non price factors*
+   1. This means they don't have to engage in a price war, and even if the competitor good has a decrease in it's price, you will still have strong demand for your product as it is better in terms of *non price factors*.
+
+
+
+## Price Elasticity Of Supply (PES)
+
+**What is price elasticity of supply?** PES measures the responsiveness of quantity supplied when there is a change in price.
+
+
+- This essentially means, PES is a measure of how much firms will change the amount they will supply of good x, given there is a change to the price of good x. 
+
+
+**Formula for PES:**
+
+\begin{center} \begin{huge}$\frac{\% \vec{\Delta}InTheQuantitySupplied}{\% \vec{\Delta}InPrice}$ \end{huge} \\ \end{center} 
+
+### What determines the price elasticity of supply?
+
+**Remember PSST**
+
+1. **Production** lags: The longer it takes to produce a good, the more price *inelastic* supply will be.
+2. **Stocks**: The more stock a firm has of a good, the easier it is for them to supply more, making supply more price *elastic*.
+3. **Spare** capacity: If a firm has a lot of spare capacity, they can easily use that spare capacity to supply more of the good. This means supply will be price *elastic*.
+4. **Substitutability** of the factors of production: If factors of production are easily substituted, this allows the firm to easily switch between producing good *x* to producing good *k*. This means supply is price *elastic*.
+5. **Time** period: Supply tends to be more *in-elastic* in the short run as there is at least 1 factor of production fixed in quantity. But in the long run, all factors of production are variable, so supply will be more price *elastic*.
+
+### Why firms care about their PES:
+
+Firms want to find ways to make their supply **price elastic**
+- This is because they can sell a higher quantity when demand *increases*
+- They can save themselves the cost of production when demand for their good *decreases*
+
+
+## Evaluating The Usage And Relevance Of Elasticities:
+
+1. Elasticities are only *estimates*
+2. Elasticities assume ceteris paribus 
+   - This means in the real world there may other factors that may influence the elasticities of goods.
+3. Price elasticity of demand *varies* along the demand curve
+   - This means a change in price may not have the same effects that it did previously
+   - An example is if the price is dropped from 20 dollars to 15 dollars (which is a decrease of 25%), and you receive an increase in demand of 25%
+     - But then you decrease the price by a further 25% (which decreases the 15 dollars to 12.75)
+     - The change in price as a percentage may be the same but people will not see it like that, to consumers it looks like the price has only changed very minimally.
+

@@ -1,116 +1,120 @@
 ---
 title: Development Economics
 author: Sauhaard
+geometry: margin=1.5cm
 output: pdf_document
 ---
 
+\tableofcontents
 
 \newpage
-# Economic Development
+# Introduction To Economic Development
 
 ## What is economic development?
 
-### Sen's Definition: 
-The process of improving peoples well being and quality of life, involving improvement in standards of living, reduction in poverty, improved health and education, along with increased freedom and economic choice.
-
-### Todaro's Definition: 
-* Availability and distribution of life sustaining goods, such as food, shelter and health
-* An increase in standards of living
-* Expansion and economic and social choice
+### Sen's Definition:
+1. Improving peoples well being and quality of life, this involves improvements in the standards of living.
+2. Reductions in poverty and improved health/ education.
+3. There must be high levels of freedom and economic choice.
 
 
-Development is a bit of a normative concept, and we cannot define it neatly.
+### Todaro's Definition:
+1. Availability and distribution of life sustaining goods, such as food, shelter and health
+2. An increase in standards of living
+3. Expansion and economic and social choice
+
+
+Development is a normative concept, and we cannot define it neatly.
 
 # Economic Growth vs Development
 
-## Growth
+Growth does not equal development. Just because there is high GDP growth, that doesn't mean the country/ economy is developing.
 
-Growth does not equal development. Just because there is high GDP growth, that doesn't mean it is developing.
-
-### Why is growth good for development?
-
+## Why is growth good for development?
 Health, jobs and infrastructure are the big drivers of development.
 
-* This leads to higher incomes
-   * Better jobs and better quality of life as they can afford more material goods
-   * Income inequality may go down
+1. This leads to higher incomes
+      * Better jobs and better quality of life as they can afford more material goods
+      * Income inequality may go down
    * A reduction in poverty for people in the economy
-* Firms will make higher profits
-  * Firms will have more confidence in the economy
-    * This leads to them hiring more people
-    * Make greater sales as the economy grows
-    * If they reinvest their higher profits into research and development, that can lead to innovations in technology
-      * This allows the economy to move away from the agriculture sector and help advance the economy (such as moving away from agriculture and moving to service sector)
-  * High job creation as firms will want to employ more people to meet their demands (due to economic growth)
-* Fiscal dividends: Higher fiscal revenues for the government
-  * The government can then spend money on things such as infrastructure and help develop the economy even further   
+2. Firms will make higher profits
+     * Firms will have more confidence in the economy
+       * This leads to them hiring more people
+       * Make greater sales as the economy grows
+       * If they reinvest their higher profits into research and development, that can lead to innovations in technology
+         * This allows the economy to move away from the agriculture sector and help advance the economy (such as moving away from agriculture and moving to service sector)
+     * High job creation as firms will want to employ more people to meet their demands (due to economic growth)
+3. Fiscal dividends: Higher fiscal revenues for the government
+     * The government can then spend money on things such as infrastructure and help develop the economy even further 
 
-### However, growth is not all encompassing
-* There is no guarantee that growth will be distributed equally
-  * This means that the standard of living has not increased for all people
-  * Income inequality may hinder development as most of the money may be going to a small number of people
-* Negative externalities and problems with sustainability arise from growth
-  * In the short term this is great for growth, but in the long run, the resources will disappear thanks to unsustainable growth
-    * Without these resources then, the economy will suffer
-  * Also pollution from growth reduces the people's living standards in the economy
-    * This is a drag on the economic DEVELOPMENT
-* Is the growth just in one sector?
-  * If the growth is happening in 1 sector, this is not going to help develop the entire economy.
-  * Such as Nigeria, they have a massive oil sector that drives most of their GDP, but that doesn't mean that money is being spread around to the rest of the economy
+## However, growth is not all encompassing
+1. There is no guarantee that growth will be distributed equally
+     * This means that the standard of living has not increased for all people
+     * Income inequality may hinder development as most of the money may be going to a small number of people
+2. Negative externalities and problems with sustainability arise from growth
+     * In the short run this is great for growth, but in the long run, the resources will disappear thanks to unsustainable growth
+       * Without these resources then, the economic growth will not consistently grow, and the future generations will suffer
+     * Also pollution from growth reduces the people's living standards in the economy
+       * This is a drag on the economic development of a country
+3. Is the growth just in one sector?
+     * If the growth is happening in 1 sector, this is not going to help develop the entire economy.
+     * Such as Nigeria, they have a massive oil sector that drives most of their GDP, but that doesn't mean that money is being spread around to the rest of the economy
 
 Inclusive growth (growth for everyone) is GOOD, but noninclusive growth is not.
 Growth is necessary but NOT sufficient on it's own to make a country more economically DEVELOPED. 
 
 # Common Characteristics of Developing Countries
 
-- Low standards of living
-  - Low incomes
-  - High poverty
-  - Bad job creation
-- Low levels of productivity
-  - Lack of investment
-  - Lack of capital, and lack of availability of capital
-  - This means very low productivity
-- Low level of savings means they are trapped in very poorly paid jobs, meaning the chances of getting out of the poverty trap is very low
-  - Lack of education on where to save and how to save the money
-  - They may not even have money to save as they are on such low incomes
-- High population growth  
-  - They tend to give birth to lots of children because they are made to work in the farm to help the family
-- Primary sector dependence
-  - Agriculture is normally the largest sector of the economy
-  - These countries tend to be well endowed with natural resources
-    - This means they put all of their factors of production in producing/ extracting those natural resources
-  - But due to low productivity and poor capital, this doesn't necessarily mean they will have very much economic growth
-- Incomplete markets
-  - Lack of property rights
-  - Their currencies tend to not be very strong, countries don't really want their money
-- High unemployment/ underemployment
-  - High unemployment is due to the fact that the agricultural sector is dominant, which has low productivity
-  - Low savings means there is not a lot of investment
-    - Low capital
-  - This hinders employment as it becomes very difficult to find one as there is not a lot of investment
-  - Those that do find jobs can find themselves underemployed
-  - There may even be a lot of people that do not want to be employed
-    - This is the hidden unemployment of the economy
-    - This means that the real unemployment rate may even be higher than what it is currently shown as
-- Low economic power on the international stage
-  - This means they cannot fight trade wars
-  - They don't have much of a say internationally
-  - They can't ask about finance very easily
-  - Ultimately, they cannot get their voice across in the international stage
+1. Low standards of living
+     - Low incomes
+     - High poverty
+     - Bad job creation
+2. Low levels of productivity
+     - Lack of investment
+     - Lack of capital, and lack of availability of capital
+     - This means very low productivity
+3. Low level of savings means they are trapped in very poorly paid jobs, meaning the chances of getting out of the poverty trap is very low
+     - Lack of education on where to save and how to save the money
+     - They may not even have money to save as they are on such low incomes
+4. High population growth  
+     - People tend to give birth to lots of children because the children are made to work in the farm to help the family
+5. Primary sector dependence
+     - Agriculture is normally the largest sector of the economy
+     - These countries tend to be well endowed with natural resources
+       - This means they put all of their factors of production in producing/ extracting those natural resources
+     - But due to low productivity and poor capital, this doesn't necessarily mean they will have very much economic growth
+6. Incomplete markets: Not all of necessary market forces are there
+     - Lack of property rights
+     - Their currencies tend to not be very strong, countries don't really want their money
+7. High unemployment/ underemployment
+     - High unemployment is due to the fact that the agricultural sector is dominant, which has low productivity
+     - Low savings means there is not a lot of investment
+       - Low capital
+     - This hinders employment as it becomes very difficult to find one as there is not a lot of investment
+     - Those that do find jobs can find themselves underemployed
+     - There may even be a lot of people that do not want to be employed
+       - This is the hidden unemployment of the economy
+       - This means that the real unemployment rate may even be higher than what it is currently shown as
+  
+8. Low economic power on the international stage
+     - This means they cannot fight trade wars
+     - They don't have much of a say internationally
+     - They can't ask about finance very easily
+     - Ultimately, they cannot get their voice across in the international stage
 
-## But
+## Evaluation:
 
-- Not all developing countries will have the same number of characteristics
-- Different countries will have different political structures, different cultures, different friends, etc.
+1. Not all developing countries will have the same number of characteristics
+2. Different countries will have different political structures, different cultures, different friends, etc.
 
 
-# Measures of economic development
+
+# Measures Of Economic Development
 
 ## Single Indicators
 These are indicators that look at just 1 thing.
 
-- GDP per Capita
+### GDP Per Capita
   - This is the average income per person in the economy.
   - GDP doesn't tell us about negative externalities, pollution, income inequality, etc.
   - What we tend to use instead of GDP/Capita is Gross National Income
@@ -122,22 +126,176 @@ These are indicators that look at just 1 thing.
   - If we use either GNI or GDP/capita, we want to have them in terms of Purchasing Power Parity
     - This allows us to have better comparisons between the standards of living in each country
     - This is because different countries have different prices for goods and services, so adjusting for PPP is good
-- Health measures
-  - Such as: Life expectancy, and infant mortality
-  - Improvements in health imply:
-    - Increasing life expectancy implies that the health care treatment is getting better in the country
-    - Also means that there are lots of doctors, implying that there are lots of jobs for higher skilled people
-    - Doctors need to go to higher education so it also implies that the education in the country is improving
-    - Sanitation may be another thing that is improving in the economy to allow people living longer
-    - Access to hospitals may be very high
-    - Education on prevention of these diseases may also be very high
-  - 
-- Education Measures
-  - Such as: Adult literacy and enrolment in primary education
-  - Improvements in education imply:
-    - That educational institutions are strong
-    - There are teachers getting jobs to educate people
-    - Potential for higher skill jobs improves
-    - Number of people that can do higher skill jobs improves
-      - This leads to lower unemployment
-      - Leading to higher incomes for the country
+  
+### Health Of People In The Economy
+ - Such as: Life expectancy, and infant mortality
+ - Improvements in health imply:
+   - Increasing life expectancy implies that the health care treatment is getting better in the country
+   - Also means that there are lots of doctors, implying that there are lots of jobs for higher skilled people
+   - Doctors need to go to higher education so it also implies that the education in the country is improving
+   - Sanitation may be another thing that is improving in the economy to allow people living longer
+   - Access to hospitals may be very high
+   - Education on prevention of these diseases may also be very high
+  
+### The Education Of People In The Economy
+ - Such as: Adult literacy and enrolment in primary education
+ - Improvements in education imply:
+   - That educational institutions are strong
+   - There are teachers getting jobs to educate people
+   - Potential for higher skill jobs improves
+   - Number of people that can do higher skill jobs improves
+     - This leads to lower unemployment
+     - Leading to higher incomes for the country
+
+## The Human Development Index (HDI):
+
+The HDI is a measure of economic development calculated by the UN. 
+It is an example of a ***composite index***.
+
+It is calculated using these 3 factors:
+1. Life expectancy
+2. The mean years of schooling of adults that are 25 years old + and the expected years of school a typical five year old will go through
+3. Income measured by the **Gross National Income per Capita** of the country. 
+
+ The higher the HDI, the greater the development.
+
+### Advantages Of Using HDI: 
+1. Takes multiple different variables into account
+2. Easy to calculate because governments already collect the data required to calculate the HDI
+
+### Disadvantages Of Using HDI:
+1. Quality of life and quality of education is not factored in
+    - Someone may have a long life but terrible health
+    - Someone may have many years of education but the education was terrible
+2. There is no consideration of income inequality
+   - The GNI per capita may be high but most of the income may be going to a few number of people
+3. There are other very crucial factors to look at when examining development, such as levels of freedom and state of the environment
+
+However, since HDI is only an indicator and not a precise measure, it should not be expected to be perfect.
+
+
+## Other Indicators:
+
+### Inequality Adjusted Human Development Index (IHDI):
+
+This is an adjustment of HDI which includes inequality as the 4th indicator.
+
+### The Multidimensional Poverty Index (MPI):
+- This measures the percentage of the population that is multidimensional poor. 
+  - It uses data for health, education and standard of living but uses a broader range of indicators within these categories.
+- It highlights the countries where some people are extremely rich, but the majority is not.
+- The **problem** with this measure is that the data required to calculate it may not always be available, it also does not take into account the environment.
+
+
+# Factors Influencing Growth and Development
+
+## Economic Factors
+
+### 1. Primary Product Dependency:
+
+Primary products are goods such as commodities and raw materials.
+
+Having an economy that is dependent on primary products causes problems for the following reasons:
+
+- Natural disasters can wipe out the production plants of primary products (such as crops)
+   1. This means there will be no production
+   2. No production means no income generated
+   3. No income leads to standards of living dropping
+- Primary products tend to have a ***low*** Income Elasticity of Demand (YED).
+   1. This means primary products are *inferior*, or *normal* goods, so as incomes of people go up, their demand for primary products don't go up very much
+   2. Instead, their demand for manufactured goods increases, this is because manufactured goods are likely to be luxury goods as they are not necessities
+- The ***Prebisch Singer hypothesis*** suggests that the **long run price** of primary goods **declines** in *proportion* to manufactured goods.
+      - This means as the price of manufactured goods go down, the price of primary products go down also
+      - But this has shown to be false in certain circumstances, the prices of primary products such as oil has increased over the last few decades while the price of manufactured goods has decreased (thanks to Chinese exports).
+- Dutch disease is another big problem
+   1. This is when a country starts exporting lots of their primary goods in a short amount of time, leading to the appreciation of their currency
+   2. This is because as demand for their exports increase, the demand for their currency also increases
+   3. As the currency appreciates, their exports become more and more expensive internationally
+   4. This leads to decreased price competitiveness throughout the economy, and causes a fall in output for certain industries.
+      - This occurred for the non-oil sectors in Nigeria.
+
+Some countries have managed to develop using their primary product dependence, such as Saudi Arabia.
+
+### 2. Volatility of Commodity Prices
+
+Primary products tend to have inelastic demand and supply curves, which means small changes in either demand or supply lead to huge fluctuations in price.
+
+- These changes mean that producers have very unstable incomes.
+  - Instability means it is difficult to plan for the future and therefore it is difficult to make long term investments
+  - Another problem for producers is that their incomes may shrink rapidly thanks to volatility of commodity prices, which can then lead to poverty and a much lower standard of living
+- When prices of commodities rise for a number of years, this just tends to be increases in price thanks to over-investment. 
+  - This over-investment then pumps up the price and when the investment money is no longer flooding in, it causes the commodity prices to fall, which leads to problems as mentioned earlier
+
+### 3. Savings Gap
+
+1. Developing nations tend to have low incomes due to unemployment/ under-employment
+2. This ultimately means they are not saving as much as the *marginal propensity to save* is quite low when incomes are also low
+3. Without people saving, banks don't have a lot of money to lend out to firms for investment
+4. Without investment, technological innovation and capital accumulation is vastly slowed down, which results in the economy having very low productivity (no capital machinery), and low productivity leads to very low economic output
+   1. Another point to make is that the *long run aggregate supply* curve will be at a very low output
+   2. This means the economy cannot produce very much at max capacity
+   3. If demand increases without the *long run aggregate supply* increasing (it only increases when the quality or quantity of factors of production in the economy increase), then this leads to high rates of inflationary growth.
+   4. Inflationary growth is terrible as it raises price levels very high without also increasing output very much.
+
+The savings rate in Africa is around 17% of the GDP.
+
+The **Harrod-Domar model** of growth suggests that savings provide the funds which are borrowed for investment purposes.
+
+- This means the rate of growth for a country is based on the level of savings it has
+- The model concludes that economic growth is down to the amount of labour and capital in an economy
+  - Developing nations tend to have a lot of labour available, so their growth must be hindered by the fact that they don't have any capital
+  - Therefore, in order to accumulate capital:
+    1. Investment is required to buy capital
+    2. Investments are funded by banks, banks need money to lend out
+    3. Banks get their money from deposits
+    4. Deposits are given into the bank in the form of savings
+    5. Therefore savings are required to start the chain towards economic growth.
+- However, there are some criticisms of the model:
+  1. Economic growth is not economic *development*, meaning living standards may not rise (which is the main goal).
+     - So if living standards don't rise, then it is not a very effective model to help development
+  2. It is very difficult to save when you don't have any money. This is the case for people in poor countries, with a terrible job.
+  3. Savings can lead to increased investments, but investments may not always lead to growth. This is because the money may be wasted or ineffectively spent.    
+
+
+### 4. Foreign Currency Gaps
+
+A foreign currency gap occurs when a country does not have the required amounts of foreign currency reserves to be able to purchase capital from abroad.
+
+- The reason capital is normally bought from abroad is that developing nations tend to not have specialist capital inside of their countries
+- Therefore they have to import it from abroad to get specialist capital and increase their productivity and output
+- The gap can be caused by low exports relative to imports. 
+
+A country that suffers from a foreign currency gap is Ethiopia.
+
+- In 2018 their public debt was 60% of GDP
+- Most of the debt has to be paid in foreign currencies and not their own.
+- This means it is likely they do not have enough foreign currency to pay off their debt.
+
+### 5. Capital Flight
+
+Capital flight is when large amounts of capital is moved out of the country and sent elsewhere instead of being used there. This means there is less capital stock in the economy.
+
+- A good example of capital flight is money. Let's use a real life example.
+    1. Money is moved out of Argentinian banks in 2001
+    2. Banks without money cannot give out loans, or even give out cash to those that want to withdraw
+    3. Everyone realises that money is running out and so they rush to withdraw, this is called a bank run
+    4. The bank doesn't have enough liquidity to give out, leading to a crisis and people lose faith in the system
+
+So why does capital flight occur?
+
+1. People lack confidence in the country's stability or financial systems
+2. People want to hide it away from the government, maybe for tax reasons.
+3. TNC's may want to repatriate their profits in their home countries, so they send money back.
+
+### 7. Demographic Factors
+
+- Developing countries tend to have higher population growth.
+  - 5% population growth a year means the economy also has to grow by 5% a year to maintain living standards in the economy
+  - This ultimately means that developing countries need higher rates of growth to develop compared to developed countries with lower birth rates
+- The high population growth is caused by high birth rates.
+  - High birth rates means more children, children are "dependants".
+  - More dependants mean less money for everyone as they need to support the dependants.
+  - More children also means strains on schooling and education
+  - Youth unemployment may increase, leading to negative social impacts with negative externalities, such as crime.
+
+The population of Africa is expected to more than double by the year 2050.
