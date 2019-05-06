@@ -287,7 +287,7 @@ So why does capital flight occur?
 2. People want to hide it away from the government, maybe for tax reasons.
 3. TNC's may want to repatriate their profits in their home countries, so they send money back.
 
-### 7. Demographic Factors
+### 6. Demographic Factors
 
 - Developing countries tend to have higher population growth.
   - 5% population growth a year means the economy also has to grow by 5% a year to maintain living standards in the economy
