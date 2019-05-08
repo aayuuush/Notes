@@ -10,7 +10,7 @@ output: pdf_document
 \newpage
 # Introduction To Economic Development
 
-## What is economic development?
+## What Is Economic Development?
 
 ### Sen's Definition:
 1. Improving peoples well being and quality of life, this involves improvements in the standards of living.
@@ -30,7 +30,7 @@ Development is a normative concept, and we cannot define it neatly.
 
 Growth does not equal development. Just because there is high GDP growth, that doesn't mean the country/ economy is developing.
 
-## Why is growth good for development?
+## Why Is Growth Good For Development?
 Health, jobs and infrastructure are the big drivers of development.
 
 1. This leads to higher incomes
@@ -47,7 +47,8 @@ Health, jobs and infrastructure are the big drivers of development.
 3. Fiscal dividends: Higher fiscal revenues for the government
      * The government can then spend money on things such as infrastructure and help develop the economy even further 
 
-## However, growth is not all encompassing
+## Evaluation Of The Importance Of Growth For Development
+
 1. There is no guarantee that growth will be distributed equally
      * This means that the standard of living has not increased for all people
      * Income inequality may hinder development as most of the money may be going to a small number of people
@@ -60,10 +61,12 @@ Health, jobs and infrastructure are the big drivers of development.
      * If the growth is happening in 1 sector, this is not going to help develop the entire economy.
      * Such as Nigeria, they have a massive oil sector that drives most of their GDP, but that doesn't mean that money is being spread around to the rest of the economy
 
-Inclusive growth (growth for everyone) is GOOD, but noninclusive growth is not.
-Growth is necessary but NOT sufficient on it's own to make a country more economically DEVELOPED. 
+Inclusive growth (growth for everyone) is **good**, but noninclusive growth is not.
+Growth is necessary but *not* sufficient on it's own to make a country more economically **developed**. 
 
-# Common Characteristics of Developing Countries
+# Common Characteristics Of Developing Countries
+
+## What Commonalities Do Developing Countries Share?
 
 1. Low standards of living
      - Low incomes
@@ -275,11 +278,11 @@ A country that suffers from a foreign currency gap is Ethiopia.
 
 Capital flight is when large amounts of capital is moved out of the country and sent elsewhere instead of being used there. This means there is less capital stock in the economy.
 
-- A good example of capital flight is money. Let's use a real life example.
-    1. Money is moved out of Argentinian banks in 2001
-    2. Banks without money cannot give out loans, or even give out cash to those that want to withdraw
-    3. Everyone realises that money is running out and so they rush to withdraw, this is called a bank run
-    4. The bank doesn't have enough liquidity to give out, leading to a crisis and people lose faith in the system
+A good example of capital flight is money. Let's use a real life example:
+  1. Money is moved out of Argentinian banks in 2001
+  2. Banks without money cannot give out loans, or even give out cash to those that want to withdraw
+  3. Everyone realises that money is running out and so they rush to withdraw, this is called a bank run
+  4. The bank doesn't have enough liquidity to give out, leading to a crisis and people lose faith in the system
 
 So why does capital flight occur?
 
@@ -289,13 +292,97 @@ So why does capital flight occur?
 
 ### 6. Demographic Factors
 
-- Developing countries tend to have higher population growth.
-  - 5% population growth a year means the economy also has to grow by 5% a year to maintain living standards in the economy
-  - This ultimately means that developing countries need higher rates of growth to develop compared to developed countries with lower birth rates
-- The high population growth is caused by high birth rates.
-  - High birth rates means more children, children are "dependants".
-  - More dependants mean less money for everyone as they need to support the dependants.
-  - More children also means strains on schooling and education
-  - Youth unemployment may increase, leading to negative social impacts with negative externalities, such as crime.
+1. Developing countries tend to have higher population growth.
+   - 5% population growth a year means the economy also has to grow by 5% a year to maintain living standards in the economy
+   - This ultimately means that developing countries need higher rates of growth to develop compared to developed countries with lower birth rates
+2. The high population growth is caused by high birth rates.
+   - High birth rates means more children, children are "dependants".
+   - More dependants mean less money for everyone as they need to support the dependants.
+   - More children also means strains on schooling and education
+   - Youth unemployment may increase, leading to negative social impacts with negative externalities, such as crime.
 
 The population of Africa is expected to more than double by the year 2050.
+
+
+### 7. Debt
+
+1. Developing countries in the 1980's received huge loans from developing nations
+2. Now they suffer from the massive interest repayments
+3. This means they have less money to spend on the public sector
+4. To finance the debt they may have to raise taxes, which will reduce consumption 
+5. This will hinder growth even more.
+
+Nigerias debt is 52% of their GDP.
+
+### 8. Access To Credit And Banking
+
+1. Developing nations have a very limited access to credit and banking
+2. This means they cannot get loans to finance investment projects to try stimulating/ expanding the economy
+3. A problem in developing nations is that people have to resort to *loan sharks* for loans, which is dangerous and may leave individuals permanently in debt.
+
+
+### 9. Infrastructure
+
+1. Low levels of infrastructure make it difficult and raise the cost of production for firms
+2. This is because the cost of transportation increases as roads are not good and so longer routes may have to be taken
+3. Terrible transport links mean the movement of goods may be disrupted very suddenly
+4. This means foreign firms are less likely to invest and set up in your country, and the firms already in your country will have a much harder time expanding
+
+
+### 10. Education And Skills
+
+1. Poor education within these countries mean workers have very little skills
+   - This means they will not be very productive either
+   - Low productivity stunts economic growth as it means the LRAS of the economy will not be very high
+2. However there is a problem with *over-education*, this is when graduates from university are unable to find graduate level jobs and so they have to take other, unskilled ones.
+
+
+### 11. Absence Of Property Rights
+
+1. Property rights are essential as individuals need to feel as if their assets are safe
+2. High levels of property rights mean investors are not afraid of their assets being taken or stolen, making them more likely to invest into the country
+  
+A country where there was poor property rights is Zimbabwe, the country took away the farms and land of many farmers and this eventually lead to economic collapse, as well as mass starvation in the country.
+
+
+## Non Economic Factors
+
+### 12. Corruption
+
+Many developing countries suffer from **corruption**, this means politicians and people in power are maximising their own welfare while disregarding the country's welfare.
+
+1. This could arguably be another example of the principal agent problem.
+2. Corruption is linked with having high levels of bureaucracy
+   - If there is a lot of government control over the country then more people are needed to manage everything (bureaucrats).
+   - Having more bureaucrats leads to an increased likelihood of corruption
+
+### 13. Disease
+
+Countries with high levels of HIV/AIDS, or malaria have a very difficult time developing. 
+1. This is because a lot of the potential workforce are not able to work as they are not healthy.
+2. A lot of money also has to be spent on medical care (if they can afford it).
+3. If they are working then their productivity will be low as they are sick
+4. Also, having a lot of ill people in the economy means there are a high number of dependants in the economy
+   - This means more money is spent taking care of the dependants
+   - This reduces the amount of money saved in the economy
+   - Low savings lead to low investment, and makes economic growth more difficult.
+
+### 14. Poor Climate
+
+Countries with very harsh/ poor climates will find it difficult to grow the economy.
+
+1. This may be because farmers cannot set up farms there
+2. Another reason is that there may be a high likelihood of natural disasters
+   - This puts off foreign investors as natural disasters can lead to their investment being ruined
+
+### 15. Civil War
+
+Civil war causes:
+
+1. Political instability
+   - This leads to investors thinking the country is too unstable to invest in
+   - Investors want very stable government so that they can plan for the future and in the long term
+2. War destroys infrastructure
+3. High levels of poverty
+4. Disease tends to spread during war time
+

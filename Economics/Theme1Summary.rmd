@@ -448,3 +448,393 @@ Firms want to find ways to make their supply **price elastic**
      - But then you decrease the price by a further 25% (which decreases the 15 dollars to 12.75)
      - The change in price as a percentage may be the same but people will not see it like that, to consumers it looks like the price has only changed very minimally.
 
+
+# Market Failure: An Introduction
+
+**What is market failure?** Market failure is when the free market fails to allocate resources at the socially optimum levels.
+
+## What Is The Social Optimum?
+
+The social optimum level of production is either:
+
+1. **Demand = Supply**: This is when resources are perfectly allocated *according to consumer demand*.
+2. **Marginal Social Benefit = Marginal Social Cost**: This is when net social welfare is maximised.
+
+## What Types Of Market Failure Are There?
+
+- **Partial market failure**: The market either overproduces a demerit good, or under-produces a merit good.
+- **Complete market failure**: This is also known as a *missing market*, this is when the market fails to supply any of a good (which has demand).
+
+## What Are The Causes Of Market Failure?
+
+1. **Self interest**: Economic agents are assumed to maximise their own benefits
+   - This leads to over-production of demerit goods by firms
+   - This leads to over-consumption of demerit goods by consumers
+2. **Under-provision of public goods**: Firms are motivated by profit so in  aa free market public goods may be under-produced 
+
+3. **Information gaps**: Consumers may experience information failure, which means they will have imperfect knowledge.
+   - Imperfect knowledge then leads to irrational decisions such as over-consumption of demerit goods.
+
+# Market Failure: The Under-Provision Of Public Goods
+
+## What Is A Public Good?
+
+A **public good** is a good that is non-rival, and also non excludable.
+
+- **Non rival** means consumption of the good does not reduce the availability of the good for anyone else.
+  - An example is the *light* given by a street lamp.
+- **Non excludable** means that once the good has been provided, no one can be excluded from the benefits of the good, and equally, no one can *reject* the consumption of that good (non rejectability).
+  - An example of this is national defence.
+- Another characteristic of a pure public good is that the *marginal cost of providing another good* is **0**.
+
+**Quasi public goods** are goods that have characteristics of both public, and private goods.
+- An example is toll roads. People can drive on it if they want to, but they are expected to pay.
+
+## The Free Rider Problem
+
+1. The free rider problem is when someone receives the benefits of a good that is provided, but without paying for it.
+2. Since public goods are non excludable, everyone can benefit from the good and be a "free rider".
+3. This means there is little incentive to pay the firm for the good, since you are enjoying it without nay cost.
+4. Therefore since everyone wants to maximise their own welfare, consumers of the good will not want to pay for the good, without them paying, firms have no incentive to provide the good as they earn no profits.
+
+# Market Failure: Externalities
+
+**What is an externality?** An externality is a cost or benefit a 3rd party recieves from an economic transaction that they were not a part of.
+
+## Negative Externalities
+
+**Negative externalities are** cost's incurred to a 3rd party.
+
+### [ ]Negative externalities caused by over-consumption:
+
+1. Since a consumer is out to maximise their own personal utility, the consumer does not care about the marginal social benefit of his actions, he only cares about his own *marginal private benefit*.
+2. This means that the consumer will over-consume goods that have negative externalities, these negative externalities reduce societal welfare
+3. This leads to a social welfare loss, due to over-consumption (at the free market equilibrium).
+
+/ Include Diagram
+
+
+### [ ] Negative externalities caused by over-production
+
+
+# Market Failure: Information Gaps
+
+**What is an information gap?** Information gaps are when an economic agent doesn't have perfect knowledge. This may be in the form of asymmetric information or imperfect information.
+
+Most economic decisions tend to be made without perfect information.
+
+
+**What is imperfect information?** Imperfect information is when an economic agent does not have all the necessary information to be able to make an informed economic decision.
+
+
+## Asymmetric Information
+
+**Asymmetric information is** when one party (the firm or the buyer) has more information than the other.
+
+- Firms tend to have superior knowledge about the good as they are the ones that produce it
+- This then means firms can take advantage of consumers since consumers will have *information gaps*, allowing them to be exploited without realising.
+- Asymmetric information leads to market failure as there will be inefficient allocation of resources in the market.
+ 
+
+## Symmetric Information
+
+**Symmetric information is** buyers and sellers have access to the same information.
+
+- Firms and consumers both have the same level of knowledge about a good or service.
+- Symmetric information leads to *an efficient* allocation of resources in a market.
+
+## Merit Goods
+
+**Merit goods are** goods that are deemed to be more beneficial than consumers actually realise, they also produce positive externalities.
+
+- Merit goods generate *positive externalities* on consumption.
+- Since consumers do not realise the benefits and utility gained from consuming the good which is caused by information failure, merit goods tend to be *under-consumed* in a free market.
+  - An example of a merit good is education. Since the utility gained from the consumption of education is very delayed, consumers do not realise the overall benefit of the good.
+- Merit goods also tend to be subsidised by the government, to promote production and consumption.
+- Merit goods are also under-produced in the free market.
+  - This is because in a free market the quantity produced will be at the market equilibrium, which is lower than the social optimum level of production.
+
+
+## Demerit Goods
+
+**Demerit goods are** goods that are deemed to be more harmful to consumers than what they realise, they also produce negative externalities.
+
+- Demerit goods are over-consumed and over-produced in a free market.
+  - Since demerit goods produce negative externalities, this means social welfare is lower than what it could be if the demerit good was not produced / consumed as much.
+
+### Why are demerit goods over-produced and over-consumed?
+
+1. The first reason is that consumers often suffer from information failure.
+   - This is in the form of either asymmetric information or imperfect information.
+   - Due to this information failure, consumers do not understand the negative effects of their consumption of the good.
+2. The second reason is created by the first. In demerit goods, firms often know that the goods they are producing are very harmful to the consumers and wider society, yet they still produce it.
+   - This is an example of how asymmetric information can be used to exploit consumers and lead to societal welfare loss.
+   - This all means the level of output for that good is higher than the social optimum.
+
+## Evaluating Merit And Demerit Goods
+
+1. Please note that the classification of merit and demerit goods are normative
+   - This means they are a matter of opinion and therefore some may argue the government shouldn't intervene in these markets.
+2. Since the over-consumption of demerit goods and under-consumption of merit goods are caused by information failure, it might be better to help educate consumers instead of trying to intervene in the market (such as higher taxes to reduce production, etc).
+
+
+# Government Intervention: Indirect Taxes
+
+**What are indirect taxes?** Indirect taxes are taxes put on expenditure rather than income.
+
+There are two types of indirect taxes, ad valorem and specific.
+
+## Ad Valorem Taxes 
+
+**What are ad valorem taxes?** These taxes are a percentage of the price of a good or service.
+
+- An example of this type of tax is VAT. It is a percentage of the final sale price of the good.
+ - / Include Image Of Tax
+
+
+## Specific Taxes 
+
+**What are specific taxes?** These are a set tax per unit of good.
+
+-  Such as the 58p per litre fuel duty on unleaded petrol.
+- / Include Image Of Tax
+
+## 
+
+
+## The Effect Of Indirect Taxes:
+
+### A diagrammatic analysis:
+
+/ Include Image Of Tax
+
+**So what is happening?**
+
+1. **Supply shifts upwards as** firms incur higher production costs due to the tax.
+2. **The price *increases* from P1 to P2, and quantity *decreases* from Q1 to Q2**.
+3. **Producer pays P1, D, C, E** amount of the tax
+   - This leads to a **loss in revenue** for them of **O, Q2, C, E**  
+4. **The consumer pays P1, P2, B, D** amount of the tax  
+5. There is a **dead weight loss of A, B, C**
+6. Government revenue **increases by E, P2, B, C**
+
+
+
+
+### On different groups:
+- **Consumers**:
+  1. Less consumer surplus as consumers now have to pay a higher price thanks to the tax
+  2. Consumers end up paying a large amount of indirect taxes when the demand for a good is price inelastic.
+  3. Workers can suffer thanks to increased taxes, this is because production costs for firms will rise, and firms may have to make redundancies to save costs 
+- **Producers**:
+  1. Producers do not like indirect taxes as it reduces their own producer surplus
+  2. Firms may have to fire people to save costs
+  3. If demand for the good being taxed is price elastic, that means the firm will have to absorb more of the tax burden to ensure demand doesn't fall dramatically.
+- **Government**:
+  1. The government will earn more revenue
+  2. If the demand for the good being taxed is price inelastic, that means the firm will not have to burden a lot of the tax, meaning they won't have to make redundancies
+
+
+
+# Government Intervention: Subsidies
+  
+**What is a subsidy?** A subsidy is a money grant given to producers to promote production.
+
+## The Effects Of A Subsidy:
+
+### Diagrammatic analysis:
+
+
+### The effect on individual groups:
+
+1. **Consumers**
+   - Higher consumer surplus as the price will decrease
+   - But this is not always the case if the producer decides to **not** pass all of the potential savings to the consumer
+2. **Producers**
+   - They increase their producer surplus
+   - They enjoy lower production costs
+   - They get higher revenues  
+4. **Government**
+   - The government has to pay for the subsidy which they could have put elsewhere
+     - This has an opportunity cost
+   - They also have to consider where the subsidy money is coming from
+     1. If money has to be borrowed to be able to give the subsidy, then this may lead to tax increases
+     2. Tax increases in the short run will not be popular and so there may be backlash from consumers
+     3. But if the government *does not increase* taxes, then it will result in future generations having to bare the burden of what they did not directly benefit from
+
+# Government Intervention: Minimum Pricing
+
+
+**What is minimum pricing?** Minimum pricing is when a good is price fixed so that it cannot be sold *below* a certain price, this price is known as the *price floor*.
+
+**Why use minimum pricing?**
+
+- Minimum pricing is often used in an attempt to safe guard the jobs of an industry.
+  1. This is because the industry equilibrium price may be deemed too low, this leads to lower revenues for firms
+  2. If firms have lower revenues, then that leads to them trying to save costs by firing workers or paying them lower wages
+- But some may argue that minimum pricing is harmful because of the lost consumer surplus, and the creation of a *dead weight loss*.
+
+## The Effects Of Minimum Pricing:
+
+### Diagrammatic analysis:
+
+
+### The effect on individual groups:
+
+**Government**
+
+1. The government is forced to buy all of the excess supply
+   - This is known as intervention buying
+   - The government now has all of this supply of a good and they need to deal with it somehow (burning, dumping, etc).
+   - This all has a very high opportunity cost.
+2. They have to consider the political popularity of the minimum pricing
+   - As governments are held to account by citizens, they may receive a backlash from consumers who suffer from the minimum pricing.
+   - Firms however will appreciate the minimum pricing.
+
+**Producers**
+
+1. Producers will enjoy greater producer surplus, and greater revenues. 
+
+**Consumers**
+
+1. Consumers do not like a minimum price as they have to pay more
+   - This then leads to reduced consumer surplus and reduced demand for the good
+   - If the good was a merit good then it will lead to decreased societal welfare as consumption will decrease
+   - This is a negative for society. 
+
+# Government Intervention: Maximum Pricing
+
+**What is maximum pricing?** Maximum pricing is when a good is price fixed below the equilibrium price, this price is known as the price ceiling.
+
+Maximum pricing is often used to try controlling inflation, or try protecting consumers.
+
+## The Effects Of A Maximum Price:
+
+### Diagrammatic analysis:
+
+
+### Effects on individual groups:
+
+**Government**
+
+1. The government has to monitor whether black markets form
+   - This can then lead to government failure if there are black markets that form and the government does not know about them or cannot deal with them.  
+2. The government normally also *subsidises* production of the good
+   - This is because firms can try filling the excess demand created by the maximum price.
+   - This has an opportunity cost.
+
+**Producers**
+
+1. Producers do not like maximum prices as they will earn less revenue and have lower producer surplus
+   - This means they will produce less goods
+   - Less output means they have to fire workers
+
+**Consumers**
+
+1. Consumers benefit from the lower prices and enjoy a larger consumer surplus
+2. But due to the excess demand created by the maximum price, consumers may not even be able to *purchase* the good for consumption
+   - This defeats the purpose of a maximum price as *less* consumers will consume the good.
+
+
+\newpage
+
+# Government Intervention: Other Forms Of Intervention
+
+## Tradeable Pollution Permits
+
+**What are tradeable pollution permits?** Pollution permits are given to firms to limit their pollution to only the specific amount allowed in the permit. These permits can be traded.
+
+- The government controls the number of permits there are, and so they can control the amount of pollution in that year
+- The goal is to lower pollution overall, so they will intentionally reduce the number of permits as the years go by, thus reducing pollution also
+- These permits can also be traded from one firm to another
+
+**Benefits of tradeable pollution permits:**
+
+1. It gives incentives to companies to invest into greener production methods
+2. Generates government revenue as the government sells these permits to firms
+3. Reduces pollution as firms will be limited to the amount on their permit
+   
+**Disadvantages of tradeable pollution permits:**
+
+1. It is expensive to monitor and enforce for the government
+2. Raises costs for firms, thus potentially raising prices for consumers
+3. Government needs to know how many permits to produce and give out to ensure that pollution is going down
+   1. Government may have information failure and produce too many permits, thus increasing pollution
+4. Smaller firms may be pushed out of the industry as they cannot afford to pay for permits
+   1. This then means the industry will become less competitive, potentially turning into an oligopoly or monopoly.
+
+## The Provision Of Information
+
+**What is the provision of information?** The provision of information is a government intervention strategy that aims to provide information to consumers, in an attempt to reduce information failure and increase rational decision making.
+
+**Advantages of provision of information:**
+
+1. Helps fill information gaps in consumers
+2. Consumers will act more rationally
+
+**Disadvantages of provision of information:**
+
+1. This can be very expensive
+2. Consumers may not listen, especially if what they are doing is habitual or addictive
+3. The government themselves may not be very well informed on the matter themselves, therefore leading to government failure
+
+
+## Regulation
+
+**What is regulation?** The government introducing new laws and rules for the market and industry to follow.
+
+**Advantages of regulation:**
+
+1. Can help protect consumers/workers
+2. Environmental regulation can lead to less pollution
+3. Regulation can help maximise social welfare in the market
+
+**Disadvantages of regulation:**
+
+1. Monitoring firms to ensure they follow regulations may be too expensive for the government
+   1. If firms know this then they will not follow the regulations
+2. Pollution permits tend to be better at reducing pollution than regulation on pollution.
+3. Higher costs for consumers as production costs will rise for firms
+4. Small firms may not be able to afford following the regulations
+   1. This then leads to them leaving the market
+   2. This then makes the market less competitive, and may eventually morph into an oligopoly or monopoly.
+5. High levels of domestic regulation may mean lower competitiveness internationally
+   1. This is because firms abroad may not be subject to the same level of regulation (if at all)
+6. The government may experience regulatory capture
+   1. This is when the regulators may have an implicit bias for the industry, making them act *in the industry's favour* rather than in society's favour.
+
+
+
+
+# Government Failure
+
+**What is government failure?** Government failure is when a government intervention results in a net welfare loss in society.
+
+This means the intervention did more harm than good.
+
+## What Are The Causes Of Government Failure?
+
+1. **Distortions of price signals:** Government intervention such as subsidies can distort price signals, leading to an inefficient allocation of resources.
+2. **Unintended consequences of the intervention:** This is when an intervention results in unintended consequences
+   1. An example of this is when a maximum pricing creates a black market.
+3. **Excess administration costs:** This is when the monetary cost of implementing policy may be much higher than the social benefits derived.
+4. **Information gaps:** The government may intervene without perfect knowledge, meaning they may make irrational decisions.
+
+
+# Alternative Views On Consumer Behaviour
+
+The underlying assumption for all rational decisions is that consumers aim to maximise utility. However, this may not always be the case.
+
+## Why Do Consumers Not Always Act Rationally?
+
+**Influences of other people:** People may be influenced by others around them.
+
+1. This means they may behave irrationally if they have been influenced to do so.
+2. This is normally caused by underlying societal norms and biases that people do not want to go against
+
+**Influence of habitual behaviour:** People often act on impulses (habits). This means that a habit may make them make irrational economic decisions.
+
+1. An example of this is when people automatically assume that a multi-pack of 6 is cheaper than just buying 6 single items.
+
+**Consumer weakness at computation:** Many consumers do not actually stop and calculate the price to value ratios of products, and other things that will increase their utility. This is mainly down to consumers not being very strong at computing things statistically.
+
