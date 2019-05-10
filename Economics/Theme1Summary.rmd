@@ -46,6 +46,8 @@ Economists make the assumption that events happen with ceteris paribus.
 
 **Normative statements:** A value judgement.
 
+\newpage
+
 # Production Possibility Frontiers
 
 **The production possibility frontier shows:** 
@@ -54,7 +56,7 @@ Economists make the assumption that events happen with ceteris paribus.
 2. The various combinations of 2 goods/ services that can be produced, given the factors of production and technology.
 
 
-![PPF Curve](Images/Theme1/PPF.png)\
+\vspace{0.5\textheight}
 
 
 Any shifts outwards of the PPF displays economic growth.
@@ -65,6 +67,7 @@ The economy can not produce beyond the curve, except for in the very short run.
 
 **Consumer goods** are goods and services that are produced to satisfy consumer demands and wants.
 
+\newpage
 
 # Specialisation
 
@@ -189,6 +192,7 @@ Karl Marx was a famous command economist, he wrote the Communist Manifesto which
   - But they do not have the responsibility of allocating every single individual resource to everyone, which limits the scope of government failure
 
 
+
 # Demand
 
 **What is demand?** The quantity of goods and services consumers are willing to, and *able to* buy at any given price, within a given time period.
@@ -220,6 +224,8 @@ Shifts in the demand curve are caused by changes in the conditions of demand.
 7. Prices of **complementary** goods: If the price of a complementary good (good x) decreases, then the demand for it's complement good (good k) will increase.
    - An example is printers and printer ink.
 
+\newpage
+
 # Supply
 
 **What is supply?** Supply is the quantity of a good or service that a producer is willing to, and able to produce at any given price point, within a given time period.
@@ -249,6 +255,7 @@ Firms want profits so if prices increase, they will want to supply more goods.
    - Increased transport costs (can be caused by carbon tax)
    - Increased regulation increases production costs
  
+\newpage
 
 # The Market Equilibrium
 
@@ -260,7 +267,7 @@ Firms want profits so if prices increase, they will want to supply more goods.
 
 **Excess supply is caused by the price being above equilibrium.**
 
-![Excess Supply](Images/Theme1/ExcessSupply.png)\
+\vspace{0.4\textheight}
 
 When price is at p2, you can see that excess supply is created (the orange).
 
@@ -268,20 +275,35 @@ When price is at p2, you can see that excess supply is created (the orange).
 
 **Excess demand is caused by a price below the equilibrium.**
 
+\vspace{0.4\textheight}
+
 ## How Does The Market Deal With Excess Supply/ Demand?
 
 **In a free market, disequilibrium never lasts because of market forces.**
 
 **Remember ARSI**: Allocation, Rationed, Signals and Incentives.
 
-### Dealing with excess supply
+### Dealing with excess supply:
+
+
+\vspace{0.7\textheight}
 
 1. A **signal** is sent that the price is too high. This is because firms notice that they have unsold product in their stocks.
 2. There is now an **incentive** for them to lower prices, and sell the rest of their stocks.
 3. Once the price has been lowered to equilibrium, the excess supply has been **rationed**
 4. The **allocation** of scarce resources is now perfect.
 
-### Dealing with excess demand
+
+
+
+
+\newpage
+
+### Dealing with excess demand:
+
+\vfill
+
+\vspace{0.5\textheight}
 
 1. A **signal** is sent that the price is too low. This is because the product gets sold out way too quickly.
 2. There is now an **incentive** for them to increase prices, and sell the good at a higher price to maximise profits.
@@ -301,23 +323,32 @@ When price is at p2, you can see that excess supply is created (the orange).
    + An example is if the price is high for a good, then it will discourages buyers from purchasing as much, and encourages producers to produce more of it.
    + These incentives ensure that the allocation of resources is at optimum levels.
 
+\newpage
+
 # Consumer And Producer Surplus
+
+**Societal Surplus** is *producer surplus* **+** *consumer surplus*.
 
 ## Consumer Surplus
 
 **Consumer surplus is** the difference between the prices consumers are *willing* to pay for a good, and what they *actually* pay for it.
 
-/ Diagram?
-
+\vfill
 
 ## Producer Surplus
 
 **Producer surplus is** the difference between the prices the producer is *willing* to sell for, and the price they *actually* sell the good for.
 
-/ Diagram
+\vspace{0.4\textheight}
 
 
-**Societal Surplus** is *producer surplus* **+** *consumer surplus*.
+
+
+
+
+
+
+
 
 
 
@@ -351,6 +382,17 @@ When price is at p2, you can see that excess supply is created (the orange).
 4. **Is the good addictive or habit forming?**: Demand will likely be price inelastic if the good is addictive.
 5. **What is the time period?**: In the long run, demand tends to be more price elastic as consumers will have the time to adapt to any price changes, while in the short run, demand will likely be price inelastic.
 
+### Price elasticity of demand varies along the demand curve:
+
+- The **first half** of the demand curve is when demand is ***price elastic***.
+- The **middle** of any demand curve is when it is ***unit elastic***.
+  - Firms can *maximise their revenue* if they sell at this point.
+- The **bottom half** of the demand curve is when demand is  ***price inelastic***.
+
+
+
+\newpage
+
 **Firms also use PED to maximise revenues:**
 
 - When their good has price inelastic demand, they *raise* prices, which then raises their revenue
@@ -358,12 +400,6 @@ When price is at p2, you can see that excess supply is created (the orange).
 - If their good has price elastic demand, they *decrease* prices, which causes their revenues to increase
   - This is because price decreases cause a more than proportional change to the quantity demanded
 
-### Price elasticity of demand varies along the demand curve:
-
-- The **first half** of the demand curve is when demand is ***price elastic***.
-- The **middle** of any demand curve is when it is ***unit elastic***.
-  - Firms can *maximise their revenue* if they sell at this point.
-- The **bottom half** of the demand curve is when demand is  ***price inelastic***.
 
 
 
@@ -499,23 +535,65 @@ A **public good** is a good that is non-rival, and also non excludable.
 
 # Market Failure: Externalities
 
-**What is an externality?** An externality is a cost or benefit a 3rd party recieves from an economic transaction that they were not a part of.
+**What is an externality?** An externality is a cost or benefit a 3rd party receives from an economic transaction that they were not a part of.
 
 ## Negative Externalities
 
 **Negative externalities are** cost's incurred to a 3rd party.
 
-### [ ]Negative externalities caused by over-consumption:
+### Negative externalities caused by over-consumption:
 
 1. Since a consumer is out to maximise their own personal utility, the consumer does not care about the marginal social benefit of his actions, he only cares about his own *marginal private benefit*.
 2. This means that the consumer will over-consume goods that have negative externalities, these negative externalities reduce societal welfare
 3. This leads to a social welfare loss, due to over-consumption (at the free market equilibrium).
 
-/ Include Diagram
+
+**Diagrammatic Analysis:**
 
 
-### [ ] Negative externalities caused by over-production
+\newpage
 
+### Negative externalities caused by over-production:
+
+
+1. Since firms are out to maximise profits, they will not care about the negative externalities created by their production.
+2. Firms only care about their private costs, so they will produce at where *MPC = MSB=MPB*
+3. This is a quantity that is above the social optimum, leading to a social welfare loss.
+
+**Diagrammatic Analysis**
+
+/newpage
+
+## Positive Externalities
+
+**What are positive externalities?** Positive externalities are benefits a 3rd party receives as the result of an economic transaction they were not a part of.
+
+### Positive externalities caused by consumption:
+
+- Goods that have positive externalities tend to be under-consumed because they have little private benefit but very large social benefits, an example of this is vaccines.
+- This means there tends to be an under-consumption of goods with positive externalities because consumers only care about their own private benefit, meaning they will only consumer at the quantity of where their *Marginal Private Benefits = MSC=MPC*.
+- This quantity is below the social optimum quantity.
+
+**Diagrammatic Analyis:**
+
+
+
+\newpage
+
+### Positive externalities caused by production:
+
+- Goods that have high positive externalities during production tend to be under-produced because of low private benefits.
+- Firms will only produce a good at the quantity of where their *Marginal Private Cost = MSB=MPB*.
+- This means there is an under-production of this good as increased production would also *increase societal welfare*.
+
+
+**Diagrammatic analysis:**
+
+
+
+
+
+\newpage
 
 # Market Failure: Information Gaps
 
@@ -589,24 +667,25 @@ There are two types of indirect taxes, ad valorem and specific.
 **What are ad valorem taxes?** These taxes are a percentage of the price of a good or service.
 
 - An example of this type of tax is VAT. It is a percentage of the final sale price of the good.
- - / Include Image Of Tax
 
+
+
+\newpage
 
 ## Specific Taxes 
 
 **What are specific taxes?** These are a set tax per unit of good.
 
 -  Such as the 58p per litre fuel duty on unleaded petrol.
-- / Include Image Of Tax
 
-## 
 
+### Diagrammatic analysis:
+
+
+\newpage
 
 ## The Effect Of Indirect Taxes:
 
-### A diagrammatic analysis:
-
-/ Include Image Of Tax
 
 **So what is happening?**
 
@@ -619,9 +698,7 @@ There are two types of indirect taxes, ad valorem and specific.
 6. Government revenue **increases by E, P2, B, C**
 
 
-
-
-### On different groups:
+### The effects on different groups:
 - **Consumers**:
   1. Less consumer surplus as consumers now have to pay a higher price thanks to the tax
   2. Consumers end up paying a large amount of indirect taxes when the demand for a good is price inelastic.
@@ -634,6 +711,10 @@ There are two types of indirect taxes, ad valorem and specific.
   1. The government will earn more revenue
   2. If the demand for the good being taxed is price inelastic, that means the firm will not have to burden a lot of the tax, meaning they won't have to make redundancies
 
+\newpage
+
+
+
 
 
 # Government Intervention: Subsidies
@@ -641,8 +722,6 @@ There are two types of indirect taxes, ad valorem and specific.
 **What is a subsidy?** A subsidy is a money grant given to producers to promote production.
 
 ## The Effects Of A Subsidy:
-
-### Diagrammatic analysis:
 
 
 ### The effect on individual groups:
@@ -654,13 +733,22 @@ There are two types of indirect taxes, ad valorem and specific.
    - They increase their producer surplus
    - They enjoy lower production costs
    - They get higher revenues  
-4. **Government**
+3. **Government**
    - The government has to pay for the subsidy which they could have put elsewhere
      - This has an opportunity cost
    - They also have to consider where the subsidy money is coming from
      1. If money has to be borrowed to be able to give the subsidy, then this may lead to tax increases
      2. Tax increases in the short run will not be popular and so there may be backlash from consumers
      3. But if the government *does not increase* taxes, then it will result in future generations having to bare the burden of what they did not directly benefit from
+
+\newpage
+
+### Diagrammatic analysis:
+
+
+\newpage
+
+
 
 # Government Intervention: Minimum Pricing
 
@@ -675,9 +763,6 @@ There are two types of indirect taxes, ad valorem and specific.
 - But some may argue that minimum pricing is harmful because of the lost consumer surplus, and the creation of a *dead weight loss*.
 
 ## The Effects Of Minimum Pricing:
-
-### Diagrammatic analysis:
-
 
 ### The effect on individual groups:
 
@@ -702,6 +787,14 @@ There are two types of indirect taxes, ad valorem and specific.
    - If the good was a merit good then it will lead to decreased societal welfare as consumption will decrease
    - This is a negative for society. 
 
+\newpage
+
+### Diagrammatic analysis:
+
+
+\newpage
+
+
 # Government Intervention: Maximum Pricing
 
 **What is maximum pricing?** Maximum pricing is when a good is price fixed below the equilibrium price, this price is known as the price ceiling.
@@ -709,8 +802,6 @@ There are two types of indirect taxes, ad valorem and specific.
 Maximum pricing is often used to try controlling inflation, or try protecting consumers.
 
 ## The Effects Of A Maximum Price:
-
-### Diagrammatic analysis:
 
 
 ### Effects on individual groups:
@@ -735,8 +826,15 @@ Maximum pricing is often used to try controlling inflation, or try protecting co
 2. But due to the excess demand created by the maximum price, consumers may not even be able to *purchase* the good for consumption
    - This defeats the purpose of a maximum price as *less* consumers will consume the good.
 
+\newpage
+
+### Diagrammatic analysis:
+
+
 
 \newpage
+
+
 
 # Government Intervention: Other Forms Of Intervention
 
