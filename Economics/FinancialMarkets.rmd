@@ -1,0 +1,378 @@
+---
+title: Financial Markets
+author: written by Sauhaard Poudel
+output: pdf_document
+geometry: margin = 1.5cm
+---
+
+\tableofcontents
+
+\newpage
+
+# Financial Markets: An Introduction
+
+Financial markets are any place where buyers and sellers can trade financial assets with one another.
+
+The most important role that financial markets have are that they **bring  together lenders and borrowers**.
+
+The other roles of financial markets are:
+
+1. To **facilitate savings**
+2. To **provide credit** to businesses and individuals
+3. To **facilitate the exchange of goods and services**
+4. To **provide forward markets** in currencies and commodities
+   1. These are also called "futures" markets, and this is the market that allows currency traders to speculate currency rates.
+5. To **provide a market for equities**
+   1. This is where shares for companies are sold.
+
+
+# Quantity Theory Of Money: The Fisher Equation
+
+**What is the quantity theory of money?** The quantity theory of money is a theory that links the growth rate of the money supply, to growth rates in inflation.
+
+- Monetarists say that increases to the money supply is the *only* cause of inflation.
+
+
+## What Is The Fisher Equation?
+
+\begin{center}\begin{huge}
+MV = PQ
+\end{huge}\end{center}
+
+- **MV** is the total expenditure in the economy with all of our money (nominal GDP).
+- **PQ** is what is sold in our economy (also nominal GDP).
+
+**What are the different components of the fisher equation?**
+
+- **M**: the *money supply*.
+- **V**: *Velocity of circulation*.
+  - The velocity basically means *how many times is the same money going to be spent?*
+- **P**: This is the *average price level/inflation level* of the economy.
+- **Q**: This is the *quantity of goods and services sold in the economy*
+  -  \begin{Large} $\frac{RealGDP}{RNO}$ \end{Large}
+
+## Why Do Monetarists Believe That Price Is Only Linked To Money Supply?
+
+If we rearrange the fisher equatin, we can turn it into:
+
+**P =** $\frac{MV}{Q}$ 
+- Since V and Q are normally thought to be constant by monetarists, the equation actually becomes $M = P$
+- This then says that the price level is *directly, and only* linked to the monetary supply in the economy.
+- Therefore more money in the economy with the same amount of goods leads to increases in inflation.
+
+**However, Keynesians Disagree:**
+
+Keynesians disagree about V and Q being fixed, especially V being fixed.
+
+- During a recession V can change significantly (decrease) , therefore there is no direct equality of M = P
+- For example, during a recession, the money supply may increase, but the money supply increasing may not filter through to the general economy. Instead it is saved or sat on by big banks, decreasing the velocity of transactions (V)
+
+
+# Bonds & Bond Yields
+
+**What is a bond?** A bond is an I O U that guarantees the holder of the bond regular interest payments and the face value of the bond back when it matures.
+
+
+## Who issues bonds?
+
+1. **The government**:
+   1. This is when they need to raise finance for public spending.
+   2. Government will want to issue bonds with coupon rates (interest rates) that are equal to other financial assets.
+2. **Firms**:
+   1. Firms may not have enough money to invest, so they want to raise finance.
+
+## Who buys bonds, and why?
+
+1. Anyone can buy bonds, people tend to buy them because they often pay more interest than if they were to save that money in the bank.
+2. Also, buying government bonds tends to be a very safe investment, which could be very lucrative for investors.
+
+
+## What does a bond look like?
+
+1. **Name**:
+   1. Could be ‘treasury’ or ‘gilts’.
+2. **Coupon Rate:**
+   1. This is the interest rate paid over the duration.
+   2. The coupon rate is a percentage of the nominal value of the bond.
+3. **Maturity:**
+   1. When the bond expires, the holder of the bond regains the nominal value back from the government bond
+4. **The Market price:**
+   1. This is the price of the bond in secondary markets
+
+
+**The  yield of a bond is calculated by:** 
+
+\begin{huge} $\frac{CouponRate}{MarketPrice} \times 100$ \end{huge}
+
+- This is essentially the rate of return on a bond.
+- An investor will hold onto a bond if the rate of return is higher than other financial assets in the economy.
+
+**What is the relationship between market price and the yield?** The yield and market price is inversely proportional, this is because when the market price increases, the yield of the bond decreases.
+
+- Very lucrative bonds will cause demand for the bond to increase, leading to increased market prices, this leads to a lower bond yield, and eventually the yield will be equal to other financial assets in the economy.
+
+
+# The Creation Of Credit, & The Money Multiplier
+
+##  How Do Commercial Banks Make Money?
+
+\vspace{0.4\textheight}
+
+- Savers will deposit money in banks and gain a return back, banks will loan those savings and charge the borrowers. 
+- The idea is that the interest charged will be higher than the interest paid back to the savers in the banks. This earns banks money.
+
+## What Is The Money Multiplier?
+
+For example:
+1. If £100 is deposited by a saver into the bank, the bank can decide that only £10 of the £100 needs to be left in the bank.
+   1. This is called the *reserve ratio*.
+2. So then the bank loans out the £90 to a borrower, and then that borrower spends that money.
+3. That £90 spent provides income to another person, and then that person may deposit the £90 back into the bank. 
+4. All of a sudden, £190 is now in the bank. This process keeps occurring over and over again. \
+
+**Equation for the money mutliplier:** 
+
+\begin{huge} $\frac{1}{ReserveRatio}$ \end{huge} \ 
+
+
+- So if only 10%  has to be reserved, then the money multiplier would be 10.
+- This means if £100 is deposited into the bank, £100 x 10 = the new amount of money that exits can be £1000. 
+- £1000 is the total money that can exist, **minus** the initial £100 deposited, and a net *£900 worth of money is created*.
+
+
+The system of fractional reserve will only work as long as we have faith in the system and we do not go to the bank to demand our money all at once.
+- If we did all go to the back at once, this is called a ‘bank run’ and then system will fail.
+
+\newpage
+
+# Role Of The Central Bank
+
+## What Does The Central Bank Do?
+
+1. Implements monetary policy
+2. Acts as a banker to the government
+   1. The central bank engages in the buying and selling government bonds on behalf of the government
+3. Acts as a banker to the banks (a lender of last resort)
+   1. Prevents a bank run (liquidity crisis).
+   2. The liquidity insurance scheme is a scheme when the central bank offers up non-emergency liquidity or emergency liquidity (when the bank needs large amounts of liquidity very quickly)
+   3. There is the problem of moral hazard.
+4. Regulates the financial system
+
+**Why is financial stability important?**
+Financial stability is important to ensure confidence in the financial system
+
+- This prevents panic, and a run on the bank
+- Risk of financial instability and systemic risk is low
+- Advise the government on bank bailouts
+
+
+## Should The Central Bank Be A Lender Of Last Resort?
+
+1. Banks may become reliant on the central bank for help on liquidity
+2. Banks may never hold sufficient liquidity as they know the central bank will help    
+   1. This is called a *moral hazard*
+3. There may be regulatory capture
+   1. This is when the regulators are influenced by the industry they are regulating
+4. Why should banks have the luxury of being bailed out while other firms in the economy do not?
+
+
+
+\newpage 
+
+# Financial Market Failure
+
+**Assets**: Anything of value that the commercial bank owns
+
+1. Cash
+2. Reserves at the Bank of England
+3. Interbank lending
+4. Short term investments
+5. Long term investments
+
+
+**Liabilities**: Anything that the commercial bank owes to someone else.
+
+1. Deposits into the bank
+2. Short term borrowing
+3. Long term borrowing such as issuing bonds
+4. Shareholders funds
+
+Financial market failure occurs when freely functioning financial markets *fail to allocate financial products at the socially optimum levels of output.*
+The end result is *a misallocation of resources*.
+
+**What is moral hazard?** Moral hazard occurs when someone increases their exposure to risk when insured.
+
+
+**So What Causes Financial Market Failure?**
+
+1. Excessive risk being taken
+   1. Excessive risk leads to greater chance of bank failure and systemic risk.
+   2. Assets are being created and sold that are risky, there is an overconsumption / overproduction of these excessively risky financial products
+   3. This leads to a loss in confidence, can lead to recession, unemployment, lower output and financial crisis
+   4. This can also cause insolvency, leading to bank bailouts which is very costly to the taxpayer.
+2. When there is collusion and fixing of interest rates/ exchange rates.
+   1. This is essentially monopoly pricing, leading to lower social welfare
+
+
+## Liquidity Crisis (Bank Run) and Insolvency
+
+**Liquidity Crisis:** When there is not enough liquid short term assets to meet short term liabilities.
+
+**Insolvency:** The bank does not have enough capital to offset their losses in asset values.
+- This is when liabilities become **larger than** assets.
+
+
+Banks don’t fall in isolation, they can cause other banks to fail also, this is called systemic risk. This is if Bank 1 fails, but Bank 1 has to pay Bank 2 but is not able to do so anymore, this may cause Bank 2 to fail also, and so on.
+
+There is systemic risk for both investment and commercial banks. The more interconnected investment and commercial banks are, the higher the risk of failing, and therefore the higher the chance of complete financial failure.
+
+### How can we try preventing insolvency or a liquidity crisis?
+
+1. Cash ratio: Forcing the bank to keep enough cash assets to be able to cover their short term liabilities
+2. Liquidity ratio: Keeping enough short term liquid assets to be able to cover their short term liabilities.
+3. Leverage ratio: Ensuring the bank keeps enough capital to offset any losses in long term assets/investments and advances which in theory will reduce the risk of insolvency
+4. Capital ratio: Ensuring that the commercial bank will hold enough capital to cover any losses from loans reducing risk of insolvency
+5. Reserve requirement: Ensuring the bank has a certain amount of liquid assets to cover their short term liabilities
+
+
+## Speculation And Market Bubbles
+
+- This market failure falls under the excessive risk type of market failure
+- Speculation occurs when assets are bought at a lower price and sold on at a higher price
+- This is a problem if the price of assets falls instead of increasing, this is even worse when leveraging
+  - Leveraging is when you borrow money to amplify the rewards of a deal
+- But what if a bubble forms because of speculation?
+  - Investors will pump the price of assets by leveraging etc
+  - Investors will soon realise that these assets are then over valued
+  - A big fall in demand leads to a big fall in price which then makes holders of the asset start to panic, they panic sell and then it causes the asset to plummet massively in prices
+- If the investors had invested using leverage and the bubble bursts, then banks can go bust, investors may go bankrupt and the lenders will not be paid back, leading to them going bust as well
+
+
+## Asymmetric Information
+
+- Banks will always have 100% of the knowledge of what they are doing, and they can hide this information from the regulators.
+- Banks will feel as if they are too big to fail so they take excessive risks and they may engage in dealing out loans to dodgy individuals.
+- Asymmetric information can also lead to adverse selection, which is when the bank has to sell products to a buyer that they would prefer not to sell to.
+  - This causes extra risk as the buyers are the worst type of buyers
+Such as health insurance companies. 
+  - Healthy individuals will make the most money for health insurance companies as they are healthy and don’t need a lot of medical attention, but they will think that the insurance premiums are too high and do not want to buy it.
+  - Unhealthy individuals will see the premiums and want to buy the insurance, but the health insurance company will lose money if they insure themselves. 
+  - So thanks to the asymmetric information, the bad buyers will always buy, leading to huge losses for the health insurance company.
+  - Increasing premiums will only make this worse as even less healthy individuals will be put off from buying the health insurance.
+
+## Negative Externalities Created By Banks
+
+- Banks may be taking excessive risk and thus creating negative externalities.
+- Such as the cost of taxpayer bailouts (they may feel as if they are too big too fail).
+- Loss of individual savings if the bank fails.
+- Lost jobs, incomes and growth thanks to the bank failing.
+
+## Market Rigging
+
+**What is market rigging?** Market rigging which is when banks, traders and intermediaries collude together to fix prices.
+
+- There are heavy fines and regulations but can still occur if punishment and enforcement is weak.
+
+## Moral Hazard
+
+**What is moral hazard?** Moral hazard is when someone increases their exposure to risk because they know they are insured.
+
+- This is the problem with bank bailouts.
+- Banks think they can get away with very risky activities because they expect the central bank to bail them out or provide them liquidity.
+- This then leads to the bank eventually failing.
+  - The bank bailout costs *huge* amounts of tax payer money.
+
+
+
+# Financial Market Regulators
+
+The UK has 3 main organisations that regulate the financial market:
+
+## Financial Policy Committee:
+
+The Financial Policy Committee was set up after the financial crisis, they regulate the entire financial sector.
+
+**What do the FPC do?**
+
+1. Identify, monitor and protect against systemic risk in the market
+2. They instruct the PRA and FCA in tackling any financial stability issues if they see any chance of systemic risk
+3. They advise the government regarding systemic risks and supply shocks, also bank bailouts
+4. They also enact stress  tests by enacting the worst case scenario
+5. in the financial sector and see if the financial sector can handle the worst case scenario in case of a shock
+6. Also have power to provide emergency liquidity to banks
+
+
+## Prudential Regulation Authority:
+
+The prudential regulation authority was set up after the financial crisis and target the microeconomy by regulating individual banks.
+
+**What do they do?**
+
+1. They help maintain the stability of banks.
+2. They supervise the management of risk.
+3. They help set industry standards for the conduct and management, and with enforcement.
+4. Specifying ratios/requirements for banks to adhere to.#
+   
+
+## Financial Conduct Authority:
+
+The financial conduct authority do not report the Bank of England but they report to the treasury of the UK, they are also micro prudential regulators.
+
+**What does the FCA do?**
+
+Their aim is to protect consumers and increase confidence in financial institutions/ products by:
+
+1. Supervising the conduct of firms/markets to ensure legal business activities.
+   1. No collusion/market rigging.
+2. Promoting competition in the market to ensure consumers get better deals.
+3. Banning financial products that are against the consumers interest
+   1. An example of this is PPI.
+4. Banning or changing misleading adverts for financial products
+   1. Ensuring advertisers that are promoting loans with very high interest/ strings attached have to declare everything in their adverts.
+
+
+# Types Of Financial Regulation:
+
+**1. Ban market rigging:**
+
+- This ensures less market rigging/ collusion, which harms consumers, businesses and other financial institutions.
+
+**2. Prevent sale of unsuitable products to consumers:**
+
+- This protects consumers from products with excessive risk, charges and limited benefits
+
+**3. Setting a maximum interest rate on loans:**
+
+- This prevents consumer exploitation
+- This also prevents excessively risky lending as there is no incentive for banks to loan to risky individuals
+
+
+**4. Deregulation:**
+
+- More competition through deregulation lowers the cost for consumers to borrow, and increases the levels of return on savings
+
+**5. Deposit insurance:**
+
+- Deposit insurance is a regulation by government to make it so that in the case of a bank run, individuals will have their deposits insured up to a certain amount. So if the bank fails, the individual will gain their money back.
+- In the UK it is around 85 thousand pounds.
+
+**6. Ring fence commercial banking from investment banking:**
+
+- This means that money that commercial banks hold cannot be used to gamble in investment bank activities.
+- This means that any failure in investment bank failure will not harm commercial banks.
+
+**7. Set limits on bank lending:**
+
+- Lower chances of bank failure and systemic risk.
+
+
+**8. Liquidity assurance with conditions and punishments:**
+
+- The central bank has to punish them because then they won’t make the same mistake twice
+
+
+
+
+
+
+

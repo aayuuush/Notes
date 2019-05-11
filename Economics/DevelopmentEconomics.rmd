@@ -386,3 +386,288 @@ Civil war causes:
 3. High levels of poverty
 4. Disease tends to spread during war time
 
+\newpage
+
+# Measures Of Income Inequality
+
+## The Lorenz Curve
+
+- The further the Lorenz curve is from the line of perfect equality, the more unequal the distribution of income is.
+
+\vspace{0.6\textheight}
+
+
+## The Gini Coefficient
+
+- The Gini coefficient takes the Lorenz curve and gives us a numerical measure of the income inequality in the country.
+- 0 means **perfect *equality***
+- 1 means **perfect *inequality*** \
+
+**The equation for the Gini coefficient:** \begin{huge} $\frac{SectionA}{SectionA + SectionB}$ \end{huge}
+
+\newpage
+
+
+# Strategies & Policies That Influence Development & Growth
+
+## Institutional Factors
+
+### 1. Education:
+
+**Why are improvements to education likely to boost development and growth?**
+
+1. Education leads to **high productivity**, which promotes development
+2. The more educated people there are, the higher the chance they are going to be in **better paying jobs** and have higher incomes
+  - This means they can afford to purchase more material goods for their family, making them more well off
+  - More education also leads to increase levels of social and economic choice, which according to Sen and Todaro is integral to economic *development*.
+3. **Educating women** also promotes higher levels of development as they are more responsible, and more willing to purchase merit goods such as better education for their children, which in the long run will help development much more.
+4. **Health benefits** can also be bought about by educating people on health risks such as HIV, which may be a reason for the lack of development in the country.
+   1. Another thing to educate people on is contraceptive usage, this will prevent the spread of things such as HIV and also help *reduce* the rapidly growing populations.
+5. **Technological advancements** can also be bought about by educating people, as then they have knowledge and can create new technologies in the economy.
+
+**But the problem with using education as a policy to promote development is:**
+
+1. There are issues with *funding*, education tends to be very expensive.
+   1. If the government were to allow private education however, then there's the moral dilemma of whether it is fine for children to be discriminated against because of the amount of money they can pay.
+2. There may be some underlying issues in society that make education ineffective
+   1. One example of this may be that when children grow to a certain age, they may be expected to leave education and help support their family by taking up a job
+      1. Therefore in some countries we may see a lot of primary school enrolment but little to no high school enrolment.
+
+
+### 2. Health Care
+
+**Why is good health care important to development and growth?**
+
+1. The healthier people are, the more **productive** they will be
+2. The more **jobs can be created** in the economy if there are lots of hospitals, GP's and dental practices.
+3. **Standards of living will increase** as people are healthier
+   1. Healthier people also tend to be *happier*, which is very important for the economy as happier people tend to be more productive also.
+4. It also implies **better sanitation** and **cleaner drinking water**.
+   1. These are all indicators that development is occurring in the country and people's lives are being improved.
+
+**But the problem with trying to improve health in the economy is that**
+
+1. There may be a *lack of funds* available to allocate to health facilities.
+2. If the private sector gets involved with health care (which eliminates the problem of a lack of funding), is it really fair that people can be *declined health care* because they cannot pay the prices?
+
+### 3. Infrastructure
+
+Infrastructure is key to economic development and growth.
+
+**Why is good infrastructure important to development and growth?**
+
+1. Good infrastructure means **markets will be available**.
+   1. This is because good infrastructure allows markets to come together, an example of this is *roads*.
+   2. Without any roads in the UK, goods cannot be delivered to buyers.
+2. Another great effect of good infrastructure is that **access to schools and hospitals** will become better.
+   1. This allows sick people to get to a hospital quicker, and kids do not have to abandon school because it is too far away or unreachable.
+   2. This ultimately means that *infrastructure is key* to the effectiveness of policies that aim to *improve schooling and health care*.
+      1. Without infrastructure, those policies will not be effective at all.
+
+**But the problem with improving infrastructure is:**
+
+1. It is *very expensive*.
+   1. Developing countries tend to not have enough money to invest into roads and things.
+2. It is a supply side policy so it *may take years for the effect to be displayed*.
+
+
+### 4. Taxation
+
+Tax revenue is also called *fiscal dividends*.
+
+**Taxation can actually hinder economic development and growth:**
+
+1. There may be high levels of **corruption**, meaning the tax revenue is not being used to help the public, and rather goes to politician pockets instead.
+   1. This is was a big problem with India, there was corruption at the highest levels of government but after 2014, the newly elected government have almost completely eliminated the corruption at the top.
+2. Tax exemptions may be given to corporations that work closely with the government, this is another form of corruption.
+3. Since there is typically *low corporate activity* in developing countries, the government often gives **tax incentives** to TNC's to start production there.
+   1. This means the government cannot raise taxes on those TNC's as they have promised not to, decreasing the level of tax revenue they could be earning.
+4. Developing nations also have large **informal markets**, and with informal markets, it is very difficult to collect any tax revenue.
+5. Thanks to **the WTO**, tariffs (and protectionist measures in general) have been falling.
+   1. Tariffs happen to be a very good source of tax revenue for the government.
+
+### 5. Appropriate use of technology
+
+
+1. It is important for the economy to harness and **use technology appropriately**.
+   1. An example of this is solar cookers. These cookers can harness the sun in very hot countries to cook food, which is cheaper and more sustainable in the long run than using gas.
+2. It is also important to try **using technology that have synergies with your country**.
+   1. This means using technology that will not be hindered by your country's conditions, such as using solar panels in the Arctic circle.
+3. **Weather based technologies** are also a good usage of technology.
+   1. In India, farmers are using technologies to help them predict the weather, this then allows them to plan for predicted weather.
+   2. This then greatly improves agricultural productivity and economic growth.
+
+### 6. Female equality
+
+If women are placed on the same footing as men, then it can greatly help development of the economy.
+
+**Why is female equality important to development?**
+
+1. Women with children will be able to **improve their children's health**.
+   1. This may come in the form of vaccinations, better nutrition, etc.
+   2. This will then reduce infant mortality and help drive down fertility rates.
+2. Women in education will know that education is important, so **they will promote education** to their own families.
+   1. This leads to higher incomes for the family and better development overall.
+3. Women make up 50% of the population, so having 50% more people in the work force will lead to **economic growth and lower unemployment**.
+   1. This then leads to higher national incomes and better standards of living.
+4. Women may want to have **smaller families**.
+   1. This is because if they want to send their kids to good universities, they understand that it is better to have fewer kids (more economically viable).
+   2. Rising incomes also seems to have an inverse correlation with the fertility rate.
+
+### 7. Income distribution
+
+If income is very unequally distributed then it may create problems for the development of the country.
+
+**Why is unequal income distribution bad for development?**
+
+1. If people do not get a good amount of income, then it will lead to a **lack of savings**.
+   1. This then prevents investment from taking place.
+2. In developing countries, the richer people tend to be *bureaucrats and politicians*, meaning they will enact policy to keep themselves rich, and not really care about the poor.
+3. **Capital flight** may also occur, since rich people have a lot of money thanks to unequal income distributions, they may then send it *out* of the economy.
+
+
+## Political Stability
+
+In developing countries, political stability is very important for the overall development of the country.
+
+### The benefits of political stability:
+
+1. There is a higher chance of **FDI** into the country
+   1. This is because firms know that there is no corrupt bureaucracy in the country that will hinder their profits
+   2. There is no unnecessary regulation and very little red tape.
+2. If the country requires **aid**, then they are more likely to get it because people know the government is stable and trust worthy.
+3. If politicians are put into power through **democracy**, then they will ensure that they keep on doing things that are good for the people to ensure they are still in power.
+   1. This is the benefit of democracy.
+
+### Negatives of political instability:
+
+1. There may be a **loss of infrastructure**.
+   1. This may be due to civil conflict and war.
+2. There is also a **loss of investment**, because investors will be afraid to put their money in an unstable country.
+
+**A major threat to development is *corruption***, which may manifest itself in a multitude of ways:
+
+1. **Inefficient regulations**: This is when corporations are not following regulations and the government turns a blind eye to it.
+2. **Reduced FDI** flows due to foreign investors not willing to risk dealing with a corrupt government.
+3. **Bribes**: Businesseses may have to pay bribes to expand their business, which in turn raises their costs of production.
+4. Projects given to the **highest bidder**, rather than the *most efficient producer*.
+5. **Legal corruption**: Laws may not be properly enforced and the judicial system may not be very effective as they are corrupt.
+
+**This ultimately leads to government failure, and a misallocation of resources.**
+
+
+# The Poverty Cycle
+
+**Absolute poverty is when** someone is living with an amount of money below a certain threshold.
+
+**Relative poverty is when** someone is living with money that is below the average.
+
+**Why are people in poverty?**
+
+1. A lack of opportunity for jobs in an economy
+2. Lack of skills
+3. Lack of education
+
+## The Economic *Growth* Poverty Cycle:
+
+\vspace{0.30\textheight}
+
+1. **Low incomes in the economy**
+2. This means that there is going to be a **low level of savings**.
+   1. This may also be due to a lack of financial institutions in the economy
+3. Low level of savings leads to a **low level of investment**.
+4. Without investment there will be **low economic growth**.
+5. Low economic growth means *low incomes*, and the cycle repeats.
+
+## The Economic *Development* Poverty Cycle:
+
+\vspace{0.30\textheight}
+
+The development poverty cycle stems from the *growth* poverty cycle.
+
+
+1. There are **low incomes** thanks to the growth poverty cycle.
+2. In a country with *low incomes*, it is **hard for the government to fund education and health**
+   1. This means people will have to pay for education and health *at the point of consumption*, and since there are low incomes, a lot of people may not be able to afford it.
+3. This then leads to **low levels of human capital** in the economy.
+   1. This essentially means workers have very low levels of skills.
+4. If people do however find jobs, there will still be **low levels of productivity**.
+   1. This is due to bad training and low level of skills.
+   2. Low productivity then leads to low incomes, and then the cycle starts again.
+
+# Micro Finance
+
+**What is micro finance?** The distribution of small loans to individuals entrepeneurs or groups of people to stimulate business activity, profits and incomes.
+
+## What Are The Benefits Of Micro Finance?
+
+1. It helps **fill the savings gap**
+   1. This is because it allows people to acess finance and grow their businesses
+   2. Traditional banks would likely charge high interest rates or maybe not give credit to these people because they will not want to take the risk (as the banks do not have acess to very much money to hand out).
+2. It **can relieve poverty** by allowing smaller businesses to expand and earn higher incomes.
+3. It is a source of finance **without huge interest rates**.
+   1. This means small businesses won't be in debt of huge amounts of money.
+4. It can help **empower women**.
+   1. This can be hugely beneficial in development of the economy.
+
+## What Are The Problems With Micro Finance?
+
+1. Lots of **businesses fail**
+   1. So how do the loans get paid back?
+2. Lenders can still apply **exorbitent interest rates** and bully the borrowers.
+   1. Over the recent years, the scheme has seen problems of lenders behaving more like loan sharks than traditional lenders.
+3. **Loans may not be big enough to alleviate poverty**.
+   1. This is because in developing nations, private firms handle a lot of sectors of the economy which the government does not have enough funding for, such as schools.
+   2. This then means the person who was given the loan, may actually spend a lot of it on school, health, etc.
+   3. This means that a lot of the money is being *used for consumption*, rather than for investment.
+
+
+# Evaluating Different Strategies For Growth
+
+## Market Based Strategies
+
+**What are some examples of market based strategies?**
+
+1. Promoting **FDI** into the country.
+2. **Privatisation** of certain industries.
+3. **Deregulation** of industries.
+4. **Trade liberalisation** by taking away protectionist measures.
+5. **Reducing the size of the government**
+6. **Removal of government subsidies**.
+7. **Floating exchange rate** systems.
+8. **Micro finance** schemes.
+
+
+### What are the benefits of market based strategies?
+
+1. Free market economists argue that there is **a more efficent allocation of resources** in a free market.
+   1. This is because government intervention can distort the price signal.
+   2. Another reason is that a lot of government intervention leads to government failure, such as corruption and excessive red tape.
+2. They also argue that **free markets promote competition** and the profit motive will mean that firms will invest to be dynamically efficient.
+   1. This is so that their costs can decrease and then they will be able to earn higher levels of profits.
+   2. Firms also want to supply what consumers *demand*, and firms will know what consumers want much more than the government, which means allocative efficiency.
+   3. Economists will argue that state run firms are very x inefficient, as they have no profit motive, so they have no reason to cut costs.
+3. It also **encourages FDI**
+   1. This is because firms know that there won't be any red tape, no unecessary regulations, and no corruption as there is very little government intervention.
+
+### However, what are the problems with market based strategies?
+
+There are some problems with allowing markets to run freely.
+
+1. Will there be **infrastructure developments?**
+   1. Private sector firms are less likely to develop these projects
+2. Free markets **may not efficiently allocate resources at the social optimum levels**
+   1. This is because public goods will have a *missing market*, and merit goods may be *under-produced*, while demerit goods may be *over-produced*.
+   2. Important sectors of the economy such as education, health care and defence may not be allocated the right amount of resources in a free market.
+3. There may be **market failures**, such as environment problems.
+   1. Resource depletion, pollution, and other negative externalities reduce social welfare in the economy.
+4. **Income inequality** tends to increase in a market economy.
+   1. Without any government support and intervention, people on lower incomes will have no safety net to help them if they are unemployed, or disabled.
+5. **Protectionism in advanced economies** may limit your growth as their markets are not freely accessible.
+6. A **lack of well-functioning financial institutions**.
+   1. This means there won't be places where people will deposit their savings in, and that leads to a savings gap.
+   2. Therefore we may need government intervention to ensure there are financial institutions present for consumers to use.
+
+
+## Interventionist Strategies
+

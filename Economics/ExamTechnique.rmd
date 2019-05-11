@@ -1,0 +1,135 @@
+---
+title: Exam Techniques for Paper 1, 2 and 3
+author: written by Sauhaard Poudel
+output: pdf_document
+geometry: margin=1.5cm
+---
+
+# Key Objectives
+
+## Knowledge:
+
+- Demonstrate knowledge of **key terms/concepts and theories/models**.
+- How will economic agents behave **in response to this?**.
+- How are the economic agents **affected**?
+
+
+## Application:
+
+- Use **data and extracts** in the answer
+- Use **examples**, either in the extract or your own.
+- **Include calculations** based on data if possible.
+- Use **context** in your answer, examples from the real world, etc.
+
+## Analysis:
+
+- Selecting an apporpiate economic idea and theory/concept.
+- Develop a **chain of reasoning**
+  - Use a logical sequence of linked ideas.
+  - Use link words such as: So, because, unless, if, and therefore.
+  - Strong analysis will include words such as: Can, could, might.
+- Include **diagrams** if possible.
+
+
+## Evaluation:
+
+- Show a **critical awareness**.
+- Recognise **different view-points**.
+- Question the **validitity of evidence** and reliability.
+- Question the **validity of underlying assumptions**.
+- Making **informed** judgements.
+
+
+# Mnemonics For Identification Of Impacts
+
+## Micro: POPSICLE
+
+1. **Price**
+2. **Output**
+3. **Profits**
+4. **Structure** of the market
+5. **Inefficiency**
+6. **Contestability**
+7. **Labour** market
+8. **Externalities**
+
+
+## Macro: DIGESTIF
+
+1. **Development**
+2. **Inflation**
+3. **Growth**
+4. **Employment**
+5. **Structure** of the economy
+6. **Trade** balance
+7. **Inequality**
+8. **Fiscal** balance
+
+
+
+
+# 5 Marks
+
+It is a fully **KAA**, there is no analysis.
+
+- **Explain**:
+  - Definitions/ Identification of factors
+  - Application: Use the data provided in the extracts
+  - Analysis: 
+
+
+
+# 10 Marks
+
+**6 KAA marks, and 4 Evaluation marks**
+
+**Make 2 Paragraphs:**
+
+1. Make a point 
+2. Analyse your point 
+3. Then include some context from the extract, if you can incorporate it in your analysis that will be good.
+4. Then make a brief evaluative point, be *critical* of the evidence, and recognise *different view points*.
+
+# 12 Marks
+
+**8 KAA marks, and 4 Evaluation marks**
+
+**Make 2 paragraphs:**
+
+1. Define a term, and make a point
+2. Analyse the point made
+3. Refer to the extract material and back up the point with some analysis
+4. Include chains of reasoning for every point made, try drawing a diagram.
+5. Make an evaluative comment
+   1. Try referring to the extract for evidence and context
+   2. Recognise different view points and be critical of evidence
+
+# 15 Marks
+
+**9 KAA, and 6 Evaluation marks**
+
+**Make 3 paragraphs, 1 Knowledge, 1 Application, 1 Analysis and 2 Evaluation**.
+
+Try making a judgement in the evaluative paragraph.
+
+
+# 25 Marks
+
+**16 KAA, 9 Evaluation marks**
+
+**Make 4 Paragraphs, and 1 judgement paragraph.**
+
+Make all of your writing *flow*.
+Structure is key in the 25 mark answer, and make sure you **plan**.
+You don't have an extract for the 25 marker.
+
+
+## KAA Paragraph
+
+1. Define a term, and make a point.
+2. Analyse the effects of your point, and then refer to your own knowledge for some evidence or data to use.
+
+## Evaluation paragraph:
+
+1. Challenge any assumptions you have made
+2. Make an informed judgement about it, ensure you refer back to the question.
