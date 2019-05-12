@@ -622,6 +622,248 @@ The development poverty cycle stems from the *growth* poverty cycle.
    3. This means that a lot of the money is being *used for consumption*, rather than for investment.
 
 
+# Long Run Strategies To Develop A Country
+
+These are strategies to increase the quantity, and or quality of the factors of production in the country.
+
+Long run strategies are *more sustainable* than short run strategies.
+
+## Natural Resources
+
+1. Using **fertiliser** to maximise land efficiency during agricultural use.
+2. Improving **agricultural technologies**.
+   - This may come in the form of investing in new machines, or tractors, but improved technology leads to improved productivity.
+3. **Building upwards** means you can use the land you have more effectively.
+
+
+## Improving Human Capital
+
+1. **Slowing the population** may be effective, such as giving contraceptives to people.
+   - Very high population growth actually hinders development in developing nations.
+2. Improving **health and education** will boost productivity.
+3. Supply **vocational training** for the jobs that the economy needs, such as plumbing.
+
+## Improving Capital & Technology
+
+1. Increasing the **quantity of capital**.
+   - The problem with developing nations trying to increase the quantity of capital in the economy is that there is a lack of funding.
+   - The government is likely to not have very much money, and there is probably a low level of savings in the economy.
+   - There may even be a foreign currency gap.
+2. **Improving technology**, especially in the key industries of a developing country such as agriculture.
+   - This arguably may be more important than increasing the levels of capital in the economy, as efficient technology usage is easier for a country to do.
+
+## Improving Institutions
+
+1. A **stable financial system** must be in place to facilitate saving and borrowing in the economy
+2. There must be a **good legal system** and strong property rights.
+3. **Schools and hospitals** must be available to ensure the population is well trained and healthy.
+4. **Key infrastructure** such as roads and bridges must be present.
+
+
+# Trade & How It Can Help Development
+
+## The Benefits Of Trade:
+
+**Remember the 4 macro-economic objectives and always link back to them.**
+
+1. Countries can **exploit their comparative advantage** and specialise in those goods.
+   - Developing nations are normally resource rich, and they can export those goods.
+   - Over the years, the demand for natural resources have been increasing, and so prices have also been increasing, which is great for a resource rich country.
+   - This increases export revenue, which leads to increased *aggregate demand*.
+   - Increases to growth also leads to increased economic development.
+2. Opening up your markets allows consumers to **benefit from lower prices and greater choice**.
+   - Another point to make is that increasing trade with a country will often lead to improved *political relations*.
+   - A good example of this sub-Saharan nations and China.
+3. **Economies of scale benefits** as the firms in your nation will have access to a massive world-wide market, which will allow them to make greater output.
+   - Your firms will also likely become *more productively efficient* as they have to compete on prices with international firms.
+   - This will lead to higher profits for firms and then may lead to increased government tax revenue.
+   - That increased tax revenue can be spent on public sector spending, such as long run strategies for growth (investment into human capital, etc).
+4. **Technological transfers** can take place, which is vastly beneficial as your firms can copy technology from abroad, which will lead to improved productivity and other benefits.
+   - Technology is also very important in allowing an economy to develop past agriculture, and move onto manufacturing or other industries.  
+
+## The Problems With Trade
+
+There are some problems with adopting trade as a strategy for development.
+
+1. **The resource curse:** A lot of countries rely on primary commodities, which has some problems.
+   - Falling prices leads to lower export revenue
+     - Lower export revenue leads to falling national income
+     - This then leads to workers having their wages cut, or being fired altogether.
+     - This then leads to less growth in the economy, higher unemployment, and a worsening of the current account.
+   - Natural resources tend to be finite in quantity, so relying on exporting these resources for growth is *unsustainable.*
+   - If the resource becomes obsolete (due to technological improvements), then demand for these commodities will plummet.
+     -  This can lead to structural unemployment as the economy was built around exporting those goods 
+     -  The economy may then go through a recession. 
+2. Primary commodities are very **susceptible to price fluctuations**.
+   - This is because their demand tends to be very price inelastic because there are little substitutes, and at the same time, *supply* is also price inelastic (takes a long time to produce crops, or oil so they cannot respond to changes in demand very quickly).
+     - If demand and supply are both price inelastic, that means any shifts of the two curves will create *huge* changes to price.
+     - Since the primary commodities market is world-wide, that means if any country has had a very big boost to their productivity, the increase in supply will lead to a massive decrease in price for that good *internationally.*
+   - Fluctuating prices is not good for the economy in the long run as it is hard to predict revenue, export revenue, demand and there will be a high level of instability of national income.
+3. **Access to international market may be limited** meaning developing countries may not even have the chance of selling their exports to other countries.
+   - This may be due to *protectionist* measures, such as the US subsidising corn production. These subsidies lead to foreign exports being *less price competitive*. This is an "import substitution" strategy.
+   - Another form of this protectionism can be seen in the EU, in the form of a common external tariff that all EU nations place on non-EU countries, and also extremely high regulations and standards. 
+   - Tariff escalation is when higher tariffs are placed on manufactured goods, rather than primary goods. This then means developing countries have less of an incentive to move away from producing primary products
+  - Developing nations also tend to have non-convertible currencies, which mean the currencies are often very difficult to trade for other currencies, and that means developing countries may not want to import goods from there because *they can't get any of the developing nations currency*
+    - Another problem is that developing countries often have currencies that fluctuate quite a lot, this means firms from abroad are more reluctant to buy a lot of the currency as *it may potentially fall in price*.
+    - This leads to difficulty in long term trading.
+4. There may be a **long term decline in the terms of trade** for developing countries, if they *are exporting primary commodities* (refer to Prebisch-Singer hypothesis for more information).
+   - This means export prices relative to import prices *fall*. In other words, your exports are very cheap and your imports are very expensive.
+   - This then leads to difficulties sustaining long term development as the country experiences *falling export revenue* (their exports are cheaper and imports are more expensive). 
+     - Imports are more expensive therefore it may lead to cost push inflation, as importing capital from abroad is more expensive.
+     - Rising inflation relative to other countries leads to a further decline of the terms of trade, and an *overall decline in standards of living.*
+
+
+# Prebisch-Singer Hypothesis
+
+**The Prebisch-Singer hypothesis says that** there will be a *long run* decline in the terms of trade for countries that depend on natural resource exports.
+
+**To work out the terms of trade for a country you do:** 
+\begin{huge} $\frac{IndexOfExportPrices}{IndexOfImportPrices} \times 100$ \end{huge}
+
+## Why does this occur?
+
+1. The demand for primary commodities is **income inelastic.**
+2. The demand for *manufactured* goods however, are **income elastic.** As income goes up, so does the demand for them.
+3. This means, as incomes of developing nations (who export primary commodities) go up, they will demand a lot more manufactured goods.
+4. This then pushes up the price of manufactured goods (the goods they want to import), and since their own exports (primary commodities) are demand income *inelastic*, the prices of their exports will not rise very much as incomes go up.
+5. Therefore, in the long run as the world gets richer and richer, the prices of manufactured goods will sky rocket, while the prices of primary goods stays relatively the same.
+6. This then means the terms of trade for countries that export primary goods will *decrease*, as their import prices are much higher than their export prices.
+7. This ultimately means that the developing country has to export *more* of their exports to fund their imports.
+
+This leads to a decline in the standards of living for developing nations in the long run, but in the short run they will improve.
+
+## What Can An Economy Do To Prevent The Effects?
+
+1. Developing countries will enjoy a boost to their terms of trade in *the short run* only.
+2. This means, in the short run they should aim to diversify the economy.
+3. They can use their export revenue from primary products to invest into new industries, and therefore prevent their terms of trade declining in the long run.
+
+
+# Policies To Promote Trade & Development
+
+The short run goal is to earn export revenue and increase growth, but the long run goal is to try *breaking away* from primary product dependence.
+
+## Import Substitution (To Industrialise)
+
+**What is import substitution industrialisation?** The idea with this policy is to place tariffs on imported manufactured goods, to allow domestic manufacturing industries to grow.
+
+**What are the benefits of import substitution?**
+
+1. Protects domestic jobs
+2. Protects the economy from foreign influences and from potential dominance of TNC's in the economy
+  - This means your country will not be held at the mercy of TNC's, instead it will your own domestic firms that control the economy.
+
+**What are the problems of import substitution?**
+
+1. In the short run, there will be good benefits of job creation, but in the long run, there will be **problems to long run growth**.
+   - This may be because import substitution leads to a decrease in imports of capital from abroad
+   - Also, if the industry is not internationally competitive in the long run, then it will lead to the industry being out competed, and therefore unemployment will increase.
+2. It is going **against the idea of *comparative advantage***. This is because you are trying to grow an industry that may not actually have a comparative advantage, which leads to very low efficiency in the long run.
+   - Lack of efficiency leads to higher prices for consumers
+   - Specialisation gains will be lost, and there will be less incentive for an industry to become more efficient if it is being protected.
+3. There may **retaliatory protectionism** placed on you
+   - This means your export revenue will fall, lowering growth.
+
+## Export Promotion Strategy
+
+This is when you *don't* place any protectionism and allow your firms to compete with the global market and let the market handle itself.
+
+Export promotion entails:
+
+1. Removing all protectionist measures from the economy
+2. This then promotes trade, growth, and job creation in the economy.
+3. This then leads to higher GDP, higher incomes for people, and eventually higher levels of development.
+
+**What are the benefits of export promotion?**
+
+1. Developing countries can exploit their **comparative advantage** in primary products (in the short run).
+2. Increased revenue's and profits from trade can then be **invested into developing capital** and technology.
+   - This then makes it easier for them to develop out of primary product dependence, and help advance the economy.
+
+**What are the problems of export promotion?**
+
+1. Although you are allowing for free trade, **other countries may still place protectionist measures** on your country and exports.
+2. There may be **higher levels of income inequality**
+   - Some industries in your economy may grow but the benefits of that growth may not be spread to the entire economy
+     - Free market economists may argue that although inequality may be high in the short run, the benefits and money will trickle down into the rest of the economy in the long run
+3. The over-dominance of **TNC's**
+   - Free global trade may attract lots of TNC's to come into the country, this may lead to them having too much power and control over the economy.  
+
+## Trade Liberalisation
+
+Trade liberalisation includes:
+
+1. Promote fiscal discipline by reducing government spending
+2. Promote deregulation, and privatisation
+3. Promote trade liberalisation by reducing protectionist measures
+4. Allow exchange rates to run freely
+5. Remove any non-tariff barriers from the economy
+6. Essentially, allow the free market to work freely.
+
+**What are the benefits of trade liberalisation?**
+
+1. There will be a **better allocation of resources** in the economy.
+   - There will be less risk of market failure.
+   - This then leads to more sustainable growth as the markets will be allocatively efficient.
+   - This is great for the whole economy.
+2. Allows for the economy to be more stable as there is no government intervention
+   - This will promote FDI flows into the country
+   - It will promote investment as firms are more confident in the stability of the economy
+   - This all leads to higher incomes and more job creation in the economy.
+3. Although there may be income inequality in the short run, in the long run there will be a trickle down effect and the money will be spread throughout the economy.
+
+**What are the problems with trade liberalisation?**
+
+1. In real life, more poverty has been created thanks to trade liberalisation
+   - TNC's have gone into countries with very low levels of regulations and have exploited the workers there by paying low wages and making them work in bad conditions.
+   - This has lead to higher income inequalities in the country.
+   - TNC's have also created higher levels of pollution in the country, which is a negative externality and a market failure. 
+2. Fiscal discipline and spending cuts may sound good on paper, but if there are cuts to education and health care then it may lead to a decrease in economic development.
+
+
+## Bilateral Trade Agreements & Regional Preferential Trade Agreements
+
+**What are the benefits of bilateral trade agreements & PTA's?**
+
+1. This allows for more market access for firms in those countries.
+   - It may lead to lower transport costs as countries in the same region can then work together and allow for free trade access in and out of the country.
+2. Another benefit is that there will be greater specialisation gains.
+   - If there is a group of countries in a regional preferential trade agreement, then each country can focus on producing what they are good at producing and then export/ import with one another.
+   - This allows them to specialise, and grow their key industries.
+
+
+**What are the problems with bilateral trade agreements & PTA's?**
+
+1. If the group of countries export the same type of goods, this means the trade will not be very beneficial to any of the countries inside the trading region.
+   - If the members of the group imposed a common external tariff on goods from outside the group, then the problem will become even worse.
+   - This is because since the members in the group all export the same things, that means they **have** to import from outside the group.
+   - Since there are tariff's placed on goods from outside, that leads to high import costs. 
+2. Preferential trade agreements often place common external tariffs on goods from outside the group, that means any goods you need to import will become *more expensive*.
+3. There may also be greater trade barriers placed on your country outside of the PTA you are a member of, leading to your exports becoming more expensive in those countries that have placed the trade barriers.
+   - This limits your scope of growth.
+
+
+## Diversification Of The Economy
+
+This is mainly used to move away from primary product dependency and try advancing the economy into producing manufactured goods, etc.
+
+**What are the advantages of diversification?**
+
+1. It will limit the problems associated with primary product dependence, and eliminate the resource curse problems.
+2. There will be an increased level of technology by moving away from primary products.
+   - This then leads to more job creation and higher economic productivity in the country.
+   - It may also lead to an increase in the level of skills in the economy, this is because primary product extraction does not require very many skills, while manufacturing does.
+
+**What are the problems with diversification?**
+
+1. There is the problem of **tariff escalation.**
+   - Tariff escalation is when higher tariffs are placed on manufactured goods, in comparison to primary goods.
+   - This means the incentives to move away from primary product dependence decreases, as there will be higher tariffs on any manufactured goods you may produce.
+2. Moving away from primary good's requires **highly skilled workers**
+   - This means if the level of education in the economy is not very high, then the economy may not be able to move away from primary good's. 
+
+
+
 # Evaluating Different Strategies For Growth
 
 ## Market Based Strategies
@@ -672,4 +914,37 @@ There are some problems with allowing markets to run freely.
 ## Interventionist Strategies
 
 
+**What are some examples of interventionist strategies?**
 
+1. **Import substitution**: When governments try switching consumer demand from imports to goods that are domestically produced.
+2. **Protectionism**
+3. **Exchange rate manipulation**
+4. **Regulations**
+5. **Nationalisation**
+6. **Increased government spending**
+
+### What are the benefits of interventionist strategies?
+
+1. Private firms are unlikely to **develop infrastructure,** therefore government intervention will be necessary to ensure infrastructure is made
+   - **Public goods** will also be provided by the government rather than having a *missing market*
+2. The government is a **major employer** in the public sector
+   - They can spend money on developing human capital in the economy.
+3. The government can ensure there is a **stable economy**.
+   1. This promotes growth and development, and FDI is more likely to come in.
+4. The government can ensure there is **welfare** available for those who need it, such as pensions or disability benefits.
+
+
+### What are the problems with interventionist strategies?
+
+1. Bureaucracies tend to be **inefficient**.
+   - There is a higher chance of corruption.
+   - This is a very inefficient allocation of resources.
+2. Nationalised industries tend to be **x inefficient** as they *have no profit motive*.
+   - This means they will be operating inefficiently, especially compared to a private firm.
+3. Government spending leads to **massive debts**.
+   - This can then hold back development even further.
+   - Countries may want to start printing out money to pay off their debt, this just leads to economic catastrophe and hyper-inflation.
+     - An example of this is Venezuela, or Zimbabwe.
+
+
+Government intervention can be very beneficial as long as these problems are taken care of.
