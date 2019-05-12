@@ -412,7 +412,7 @@ Civil war causes:
 
 ## Institutional Factors
 
-### 1. Education:
+### 1. Education
 
 **Why are improvements to education likely to boost development and growth?**
 
@@ -670,4 +670,6 @@ There are some problems with allowing markets to run freely.
 
 
 ## Interventionist Strategies
+
+
 

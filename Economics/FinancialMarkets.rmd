@@ -53,7 +53,7 @@ MV = PQ
 
 ## Why Do Monetarists Believe That Price Is Only Linked To Money Supply?
 
-If we rearrange the fisher equatin, we can turn it into:
+If we rearrange the fisher equation, we can turn it into:
 
 **P =** $\frac{MV}{Q}$ 
 - Since V and Q are normally thought to be constant by monetarists, the equation actually becomes $M = P$
@@ -185,7 +185,7 @@ Financial stability is important to ensure confidence in the financial system
 
 1. Cash
 2. Reserves at the Bank of England
-3. Interbank lending
+3. Inter-bank lending
 4. Short term investments
 5. Long term investments
 
@@ -198,7 +198,7 @@ Financial stability is important to ensure confidence in the financial system
 4. Shareholders funds
 
 Financial market failure occurs when freely functioning financial markets *fail to allocate financial products at the socially optimum levels of output.*
-The end result is *a misallocation of resources*.
+The end result is *a mis-allocation of resources*.
 
 **What is moral hazard?** Moral hazard occurs when someone increases their exposure to risk when insured.
 
@@ -207,7 +207,7 @@ The end result is *a misallocation of resources*.
 
 1. Excessive risk being taken
    1. Excessive risk leads to greater chance of bank failure and systemic risk.
-   2. Assets are being created and sold that are risky, there is an overconsumption / overproduction of these excessively risky financial products
+   2. Assets are being created and sold that are risky, there is an over-consumption / overproduction of these excessively risky financial products
    3. This leads to a loss in confidence, can lead to recession, unemployment, lower output and financial crisis
    4. This can also cause insolvency, leading to bank bailouts which is very costly to the taxpayer.
 2. When there is collusion and fixing of interest rates/ exchange rates.
@@ -304,7 +304,7 @@ The Financial Policy Committee was set up after the financial crisis, they regul
 
 ## Prudential Regulation Authority:
 
-The prudential regulation authority was set up after the financial crisis and target the microeconomy by regulating individual banks.
+The prudential regulation authority was set up after the financial crisis and target the micro-economy by regulating individual banks.
 
 **What do they do?**
 
@@ -370,6 +370,77 @@ Their aim is to protect consumers and increase confidence in financial instituti
 
 - The central bank has to punish them because then they won’t make the same mistake twice
 
+
+# The Problems With Financial Regulation
+
+## Why May Financial Regulation Be Bad?
+
+### Moral Hazard
+
+- When you have liquidity assurance (providing emergency liquidity), or other bank bail out schemes, then it means the banks may take advantage of this and act in a riskier manner.
+- Its the tax payer who has to bare the costs of the bad decisions and risky behaviour if it back fires
+
+### Regulatory Capture
+
+- This is when regulators are very close to the people in the industry they are regulating.
+- This is because the best regulators of an industry are people from that specific industry.
+- This means the regulators may enact regulations in the industries favour, rather than the public's favour.
+- If this is the case and regulatory capture does occur, then the costs of the regulation is vastly larger than any benefits from the regulation. This leads to *government failure*.
+
+### Asymmetric Information
+
+- Banks have all of the information related to how their banks are being run and the best methods of ensuring the banks are regulated properly.
+- But since banks have this information to themselves, if regulators do not know this information (since banks don't want to help them), then the regulations enacted may be *ineffective*.
+
+### Information Failure
+
+- This is similar to asymmetric information.
+- This is when the regulators have a very limited knowledge of the banks and what they are doing internally.
+- An example of this is if regulators *ban* the sale of PPI.
+  - This banning of PPI may be great for the time being, but the regulators do not know what *new* product the banks will come out next year.
+- Information failure may mean that regulators are always one step *behind* the banks.
+
+### Unintended Consequences
+
+1. There may unintended consequences from *deregulation*
+  - Such as allowing commercial and investment banks to function as one bank and not ring fence.
+  - Deregulation's on liquidity ratios may lead to liquidity crisis's later on.
+  - Also, deregulating with the intention of *increase competition* in the banking industry may have unintended consequences
+    - Such as allowing for the creation of a *monopoly*.
+    - This is because if you deregulate, then the incumbent firm may engage in anti-competitive practices to increase the barriers of entry and then become a monopoly.
+2. Decreasing the amount of profits that can be made in the banking industry may mean banks move out of commercial banking and become a different type of bank instead
+  - This means there will be less competition in the commercial banking market.
+  - This may then lead to a monopoly.
+3. Firms may then **shut down** if regulations are too strict
+4. **Maximum interest rates** leads to excessive demand for loans
+  - This then means there will be more people wanting to borrow
+    - Since there is a maximum interest rate, banks cannot charge extra for *high risk* individuals.
+    - This then may lead to a lot of high risk individuals getting loans.
+    - If they default on the loans then it will be a catastrophe for banks.
+  - Another point to make is that excess demand created for a good is an *inefficient allocation of resources.*
+  - Also, since banks are capped at a maximum interest rate, their profit incentives decrease.
+    - This then means they may give out less loans.
+    - This may then hinder economic growth as businesses need loans for investment and consumers need them for consumption.
+
+### Administration & Enforcement Costs
+
+- Regulatory bodies are *very* costly to maintain and operate.
+- This means the *benefits* of the regulation must be higher than these costs.
+
+
+## Evaluating The Usage Of Financial Regulation
+
+1. **There must be a balance of regulation**:
+   - We want to protect consumers and protect against systemic risk, but we *do not* want to destroy the profitability of banks.
+   - This is because we don't want the banking market to transform into an oligopoly or monopoly because of the increased costs of entry for new firms.
+2. **Regulation should promote fairness, without damaging efficiency**:
+   - We want the market to be as efficient as possible
+   - A maximum interest rate leads to allocative inefficiency
+   - Investment will decrease if profitability decreases, leading to lower innovation.
+3. **You need to weigh up the costs vs benefits**:
+   - Do the benefits of enacting the policy outweigh the costs?
+   - The costs of being the lender of last resort is the money and moral hazard involved, but the benefits are that it prevents systemic risk and complete bank failure.
+     - The financial market has great influence on every part of the economy, so if a bank were to fail it would affect a lot of people, not just people working at the bank.
 
 
 
