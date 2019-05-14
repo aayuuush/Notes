@@ -1,6 +1,6 @@
 ---
-title: Development Economics
-author: Sauhaard
+title: Development Economics & Government Policy
+author: written by Sauhaard Poudel
 geometry: margin=1.5cm
 output: pdf_document
 ---
@@ -407,6 +407,153 @@ Civil war causes:
 
 \newpage
 
+# The Poverty Cycle
+
+**Absolute poverty is when** someone is living with an amount of money below a certain threshold.
+
+**Relative poverty is when** someone is living with money that is below the average.
+
+**Why are people in poverty?**
+
+1. A lack of opportunity for jobs in an economy
+2. Lack of skills
+3. Lack of education
+
+## The Economic *Growth* Poverty Cycle:
+
+\vspace{0.30\textheight}
+
+1. **Low incomes in the economy**
+2. This means that there is going to be a **low level of savings**.
+   1. This may also be due to a lack of financial institutions in the economy
+3. Low level of savings leads to a **low level of investment**.
+4. Without investment there will be **low economic growth**.
+5. Low economic growth means *low incomes*, and the cycle repeats.
+
+## The Economic *Development* Poverty Cycle:
+
+\vspace{0.30\textheight}
+
+The development poverty cycle stems from the *growth* poverty cycle.
+
+
+1. There are **low incomes** thanks to the growth poverty cycle.
+2. In a country with *low incomes*, it is **hard for the government to fund education and health**
+   1. This means people will have to pay for education and health *at the point of consumption*, and since there are low incomes, a lot of people may not be able to afford it.
+3. This then leads to **low levels of human capital** in the economy.
+   1. This essentially means workers have very low levels of skills.
+4. If people do however find jobs, there will still be **low levels of productivity**.
+   1. This is due to bad training and low level of skills.
+   2. Low productivity then leads to low incomes, and then the cycle starts again.
+
+# Policies To Redistribute Income & Wealth
+
+## Taxation
+
+
+1. Government can implement **progressive taxation** policies.
+   - This is when higher income individuals are taxed more than lower incomes.
+   - This can either be done by increasing the *non taxable income allowance* for lower incomes, or increasing taxes for richer incomes and then spending it on redistributitive policies, such as increased educational spending.
+2. The government can reduce regressive taxation, such as VAT, cigarette duty and alcohol duty.
+
+
+**Problems with those tax policies:**
+
+1. Increasing taxes on the rich may actually result in **lower tax revenues**.
+   - This is thanks to the Laffer curve.
+2. Also, **regressive taxes are a big portion of total tax revenue**, so reducing them may lead to the government implementing austerity measures.
+
+
+## Increased Transfer Payments
+
+- The government can increase **welfare benefits** for people on lower incomes.
+
+**What are the problems with increasing transfer payments?**
+
+- It may **create disincentives** to work
+  - This is because if people's benefits go once they start working, then it may lead to them not wanting work.
+- Increasing transfer payments is **very costly**.
+
+
+## Minimum / Maximum Wages
+
+- **Minimum wages** allow lower income individuals to boost their incomes, and therefore have a better standard of living.
+- **Maximum wages** may be placed to stop massive amounts of money going to a single person. This would reduce income inequality.
+
+**What are the problems with min/max wages?**
+
+1. Maximum wages create disincentives to be entrepenurial.
+2. Minimum wages create unemployment in the economy.
+3. Minimum wages also can create inflation in the economy as costs of production will rise.
+
+
+## Legislation
+
+- Anti **discrimination laws** can be introduced.
+- Legislation to make it **harder to fire workers**.
+- **More maternity/ paternity** leave.
+
+**What are the problems with these legislative policies?**
+
+1. They become **very costly for businesses**.
+2. **Enforcing the policy** may be very costly.
+3. There may be **government failure** if the government implements very very costly rules, causing businesses to shut down.
+   - The businesses may even move out of the country.
+
+## Improving Health Care & Education
+
+These policies target the root cause of low incomes, which is poor productivity.
+
+- Government spending on education and training can help boost productivity by giving workers new skills.
+  - This increases the workers *marginal revenue product*, leading to higher incomes and wages.
+- Improving health care increases productivity because less people will become sick.
+
+
+**What are the problems with improving health care/ education?**
+
+1. They are **very costly**.
+2. These policies take a **long time to come into effect**.
+
+
+## Evaluation
+
+Here are some general evaluative points regarding the distribution of incomes.
+
+1. Does the policy create disincentives to work?
+2. Are the costs of the policy worth the benefits?
+3. Is fairness more important than efficiency?
+   - A lot of these policies are inefficient, such as maximum wages. They distort the market mechanism and are allocatively inefficient.
+4. "Fairness" is a normative judgement, is it actually fair to tax workers with higher productivity?
+5. What is the scope of government failure when implementing these policies?
+  - A minimum wage that is too high can lead to very adverse effects.
+6. Is the level of inequality that bad? Do we really need to intervene?
+
+
+# The Laffer Curve
+
+**What did Arthur Laffer say?** Laffer's idea was that increasing taxes will increase tax revenue up to a point. After this point, tax revenue's will start decreasing.
+
+
+**The Laffer Curve Diagram:**
+
+\vspace{0.35\textheight}
+
+- The highest point is called the **efficient tax rate**.
+
+**Why does tax revenue decrease after "_t_" ?**
+
+1. There will be **disincentives to work harder**/ be entrepeneurial.
+   - They may feel as if there is no point in working harder if all of their earnings will be taxed anyways.
+2. People will **emigrate away** from the country.
+  - Tax rates are lower in other economies, so people will just move away.
+3. **Tax evasion** and tax avoidance.
+  - Tax evasion is when you don't declare all of your income, and therefore don't have to pay taxes on what you haven't declared.
+    - Tax evasion is illegal.
+  - Tax avoidance is finding loopholes in the system to not pay as much tax.
+    - Tax avoidance is completely legal.
+
+
+
 
 # Strategies & Policies That Influence Development & Growth
 
@@ -555,45 +702,26 @@ In developing countries, political stability is very important for the overall d
 
 **This ultimately leads to government failure, and a misallocation of resources.**
 
+# Quantitative Easing
 
-# The Poverty Cycle
+## Why is quantitative easing used?
 
-**Absolute poverty is when** someone is living with an amount of money below a certain threshold.
+It is used when traditional approaches to monetary policy fail to increase aggregate demand.
 
-**Relative poverty is when** someone is living with money that is below the average.
+1. Used when low availability of credit
+2. Low consumer/ business confidence
+3. Banks are not very willing to lend out money
 
-**Why are people in poverty?**
+**How does quantitative easing work?**
 
-1. A lack of opportunity for jobs in an economy
-2. Lack of skills
-3. Lack of education
-
-## The Economic *Growth* Poverty Cycle:
-
-\vspace{0.30\textheight}
-
-1. **Low incomes in the economy**
-2. This means that there is going to be a **low level of savings**.
-   1. This may also be due to a lack of financial institutions in the economy
-3. Low level of savings leads to a **low level of investment**.
-4. Without investment there will be **low economic growth**.
-5. Low economic growth means *low incomes*, and the cycle repeats.
-
-## The Economic *Development* Poverty Cycle:
-
-\vspace{0.30\textheight}
-
-The development poverty cycle stems from the *growth* poverty cycle.
+1. The central bank creates money electronically.
+2. That money is used to buy *financial assets* from financial institutions.
+3. The price of government bonds *increase*, and the yield of those bonds *decrease*.
+4. Financial institutions now have lots of money, this means they may start loaning this money out, or invest in shares/ corporate bonds.
+5. All of this stimulates borrowing, spending and incestment, leading to increased AD and therefore increased growth.
 
 
-1. There are **low incomes** thanks to the growth poverty cycle.
-2. In a country with *low incomes*, it is **hard for the government to fund education and health**
-   1. This means people will have to pay for education and health *at the point of consumption*, and since there are low incomes, a lot of people may not be able to afford it.
-3. This then leads to **low levels of human capital** in the economy.
-   1. This essentially means workers have very low levels of skills.
-4. If people do however find jobs, there will still be **low levels of productivity**.
-   1. This is due to bad training and low level of skills.
-   2. Low productivity then leads to low incomes, and then the cycle starts again.
+
 
 # Micro Finance
 
@@ -713,14 +841,14 @@ There are some problems with adopting trade as a strategy for development.
      - Rising inflation relative to other countries leads to a further decline of the terms of trade, and an *overall decline in standards of living.*
 
 
-# Prebisch-Singer Hypothesis
+# The Prebisch-Singer Hypothesis
 
 **The Prebisch-Singer hypothesis says that** there will be a *long run* decline in the terms of trade for countries that depend on natural resource exports.
 
 **To work out the terms of trade for a country you do:** 
 \begin{huge} $\frac{IndexOfExportPrices}{IndexOfImportPrices} \times 100$ \end{huge}
 
-## Why does this occur?
+**What causes the terms of trade to decline?**
 
 1. The demand for primary commodities is **income inelastic.**
 2. The demand for *manufactured* goods however, are **income elastic.** As income goes up, so does the demand for them.
@@ -732,7 +860,8 @@ There are some problems with adopting trade as a strategy for development.
 
 This leads to a decline in the standards of living for developing nations in the long run, but in the short run they will improve.
 
-## What Can An Economy Do To Prevent The Effects?
+
+**How can a country prevent the terms of trade from declining?**
 
 1. Developing countries will enjoy a boost to their terms of trade in *the short run* only.
 2. This means, in the short run they should aim to diversify the economy.
@@ -863,6 +992,187 @@ This is mainly used to move away from primary product dependency and try advanci
    - This means if the level of education in the economy is not very high, then the economy may not be able to move away from primary good's. 
 
 
+# FDI & It's Role In Development
+
+## Why do foreign firms invest into developing countries?
+
+1. Developing countries may be **abundant in natural resources**.
+2. Firms can expand their market size by investing into **newly emerging economies**.
+   1. This increases their potential of growth.
+3. It may be **cheaper to produce goods** in those countries, thanks to lower labour costs.
+4. There tends to be **less regulation** in developing countries.
+
+
+## What are the benefits of FDI?
+
+1. Investment into the economy is an **injection into the circular flow of income**.
+   - This leads to higher employment, leading to increases in potential growth for the economy.
+2. Higher employment also increases incomes in the economy, which can **fill the savings gap**.
+   - Higher savings can then facilitate investments in the economy.
+3. There will be a **positive effect on the capital account** in the Balance of Payments.
+4. TNC's can **develop infrastructure** in the developing country.
+   - An example of this is Chinese firms in African countries.
+   - They help develop infrastructure in these African countries.
+5. Workers that are employed by the foreign firms will be trained by them and be **more productive**.
+   - This is great for the economy in the long run as those skilled workers can then start up their own firms.
+6. The potential for **technological transfer** is very high.
+   - The developing country is then exposed to much better technology, which is great for the economy.
+7. There will be **higher tax revenues** for the developing country as there will be more business there.
+   - TNC's will have their profits taxed.
+   - Any goods that are sold in the economy will also be taxed (VAT), thereby increasing tax revenues even more.
+
+## What are the potential costs of FDI?
+
+1. Employment may be **short term**.
+   - There is no guarentee that TNC's will continue operating in the country.
+   - Also, there is no guarentee that TNC's will even use the labour force in the developing nation.
+     - They may prefer bringing their own workers instead.
+2. TNC's may have **too much power** in the economy.
+   - They may have power over politicians, and therefore may be able to get massive tax excemptions.
+   - They can also engage in corrupt activities such as bribery.
+3. TNC's may invest into **labour saving technology** (such as machinery), rather than employing people.
+   - This means employment may not increase very much.
+4. TNC's may strip natural resources and then just leave.
+   - They may buy resources cheaply and then send them back to their own country, which is not good for the developing country.
+5. There may be environmental costs (which are negative externalities).
+   - This can lead to resource depletion, and pollution.
+   - Since foreign firms are profit maximising, they will pay no regard to the environmental costs associated with their production.
+6. Tax revenue may be lower than expected.
+   - This is because tax incentives are often given to firms to promote production.
+   - Foreign firms may also find tax loopholes to not pay very much tax.
+
+
+# Sustainable Development
+
+**What is sustainability?** Sustainability is meeting the needs of the present without reducing the ability of future generations to meet their own needs.
+
+## Sustainable Growth
+
+1. Profits can be **reinvested** into improving the quality of capital, and the quantity of capital.
+   - This can be done by research and development into new technologies, and new innovative methods of production.
+   - This then leads to an increase in the capital stock of an economy, which is *long run* growth.
+2. The **fiscal dividends (tax revenue)** recieved from growth can be spent on education, health care, roads, and infrastructure.
+   - These are all supply side policies which will lead to long run growth of the economy.
+
+
+## Unsustainable Growth
+
+1. Pursueing growth may lead to **resource depletion** and resource degradation.
+   - This may lead to a lack of resources in the economy for the next generation.
+   - Resource degradation is also a big problem where production can lead to other resources in the economy being damaged, such as chemicals in the soil.
+   - All of this also leads to lower levels of happiness in the economy.
+2. Deforestation is also unsustainable and creates lots of **negative externalities**.
+   -  Examples of some negative externalities are soil erosion, loss of bio-diversity and higher risks of flooding.
+3. The **over-use of fossil fuels** in the economy
+   - This can create negative externalities such as pollution.
+   - Pollution will harm people in the country, leading to lower levels of healthiness and therefore will also probably decrease the levels of productivity in the economy.
+ 
+
+# Other Strategies For Development
+
+## Foreign Aid
+
+**What is the aim of foreign aid?** Aid is meant to fill the savings gap in developing countries and promote economic development.
+
+**What forms of aid are there?, and how do they help?**
+
+1. **Long term loans:** These are often loans with very low interest rates, and are paid back over a very long time.
+2. **Tied aid:** This is when aid is sent to a country, but with the conditions that the reciepient country only buys goods and services from the donor country.
+3. **Project aid:** When money is given for the key objective of developing infrastructure.
+   - The World Bank gives lots of project aid.
+4. **Technical aid:** When money is given to advance technology in the economy.
+   - It may be used to subsidise research and development in the country.
+5. **Commodity aid**: When money is sent to allow the recipient country to buy commodities to lower costs of production, aiding growth, and thereby improving development.
+
+**Bilateral aid** is aid from one country to another.
+**Multi-lateral aid** is aid that is diverted by an international organisation such as the World Bank, and they will then decide on who gets the aid money.
+
+**What are the problems with aid?**
+
+1. **Corruption**: The government may not spend the aid money on the welfare of their citizens.
+2. **Dependency on aid**: Countries and firms may become dependent on aid to lower their costs, reducing their incentives to innovate.
+3. **Aid weariness**: This is when advanced economies no longer want to give aid because they are suffering from their own economic problems.
+4. **Income inequality**: This can be caused by aid money being spent on industrialisation, which normally only benefits a few.
+5. The aid may be used for **political agendas**, rather than development.
+
+## The Lewis Model For Industrialisation
+
+**What is the Lewis model?** 
+
+1. The Lewis model says that developing country's have dual economies. One economy is the low productivity agricultural sector, and the other is the industrial sector, with high levels of investment.
+2. Lewis believed that people from the agricultural sector could be attracted to come and work for the industrial sector by higher wages.
+3. He also believed that the productivity of the agricultural sector was so bad, that people leaving the agriculture sector of the economy would have little to no impact on the GDP of the economy.
+4. This means, as more people joined the industrial sector, their incomes would rise. Rising incomes leads to increased savings.
+5. Thus, growth could be achieved from rural to urban migration.
+
+**How can the Lewis model increase development?**
+
+T government can build factories to encourage the transition from an agricultural economy to an industrial one.
+
+## Buffer Stock Schemes
+
+**What is a buffer stock scheme?** A buffer stock scheme involves imposing a maximum and a minimum price for goods.
+- When there is *excess supply* for the good (thanks to the minimum price), the government buys up the excess.
+- When there is *excess demand* for the good (thanks to the maximum price), the government sells off their own supplies.
+
+**When are buffer stock schemes used?**
+
+Buffer stock schemes are normally used on commodities, as they often have volatile prices.
+
+**What are the benefits of a buffer stock scheme?**
+
+1. It can help stabilise prices for key commodities in the economy.
+   - This promotes investment as investers can plan ahead (in the long term). 
+2. It prevents sharp contractions in price
+   - This prevents producers from suffering massive losses in revenue
+3. It prevents sharp increases in price
+   - This helps consumers afford the good 
+
+
+**What are the problems with buffer stock schemes?**
+
+1. It requires the stocks to both go *up*, and also *down*.
+   - If the stocks keep increasing (government keeps buying more), then the scheme will run out of money.
+   - If stocks keep shrinking (government keeps selling), then the scheme will run out of stock.
+2. Buffer stock schemes require huge amounts of initial investment.
+3. There may be information failure regarding the maximum price or minimum price.
+  - Very high minimum pricing will lead to producers becoming less dynamically efficient, as they no longer have to cut costs to keep profits high (thanks to the minimum pricing on their good).
+
+
+## Development Of Tourism
+
+**What are the benefits of development using tourism?**
+
+1. Tourism is demand *income elastic*, meaning the demand for tourist vacations increases as incomes do.
+  - This means as the world develops, country's that have a tourism industry will experience higher demand, therefore increasing their economic growth.
+2. Tourists can fill the foreign currency gap.
+  - This foreign currency can be used to finance imports or finance capital purchases from abroad.
+3. TNC's are likely to invest into the industry too, which brings FDI flows and improved infrastructure (TNC's have to ensure there is a reliable supply of electricity, water and other things).
+4. Jobs can be created locally and the jobs don't require specialist training.
+5. The government will enjoy higher tax revenues.
+
+
+**What are the problems with developing a country using tourism?**
+
+1. The tourism industry is seasonal.
+2. Workers are often low-skilled, and not paid very much, this limits the scope of further development.
+3. TNC's that have invested into the industry will often repatriate their profits.
+4. There may be a large number of externalities involved in developing the tourism industry.
+  - This may include pollution, environmental damage, and the impacts on local culture.
+
+
+## Fair-trade Schemes
+
+**What is fair trade?** Fair trade products are products that have worked together with their producers to ensure:
+
+1. A fair price was paid to producers
+2. There is community development
+3. The working conditions are fair
+4. The environment is protected and not harmed.
+
+
+
+
 
 # Evaluating Different Strategies For Growth
 
@@ -922,6 +1232,9 @@ There are some problems with allowing markets to run freely.
 4. **Regulations**
 5. **Nationalisation**
 6. **Increased government spending**
+7. **Buffer stock schemes**
+8. **Infrastructure projects**
+9. 
 
 ### What are the benefits of interventionist strategies?
 
@@ -945,6 +1258,48 @@ There are some problems with allowing markets to run freely.
    - This can then hold back development even further.
    - Countries may want to start printing out money to pay off their debt, this just leads to economic catastrophe and hyper-inflation.
      - An example of this is Venezuela, or Zimbabwe.
+4. Government spending can cause the **crowding out effect**.
+
+     \vspace{0.35\textheight}
+
+   -  The government often *borrows* money to finance its expenditure, they do this by issueing out government bonds.
+   -  If they need to finance a project, then that means they will increase their demand for people to buy their government bonds, which will raise the interest rates for their bonds (they are willing to pay more to borrow).
+   -  Since most interest rates in the economy are based on the interest rates of government bonds (such as mortgages, etc), that will drive up interest rates in the economy as a whole.
+   -  Higher interest rates in the economy make it more expensive for firms to borrow money, and therefore decrease investment.
+   -  Decreased investment can lead to decreased aggregage demand, which may hinder growth in the economy.
 
 
-Government intervention can be very beneficial as long as these problems are taken care of.
+\begin{large}
+Government intervention can be very beneficial as long as these problems are taken care of. \end{large}
+
+
+
+
+
+
+
+
+
+
+
+\newpage 
+
+# Public Expenditure
+
+**Current Government Expenditure:** Government spending which recurs.
+- This may include drugs for the NHS.
+
+**Capital government expenditure:** Spending by the government on assets, such as building houses.
+
+
+**Transfer payments:** Welfare payments from the government.
+- No goods or services are transacted in this, it is a direct transfer of money from the government to someone.
+
+
+## Reasons for the changes in public expenditure:
+
+1. The UK government spends most of its budget on pensions and welfare benefits, followed by health and then education.
+2. As the economy grows, government expenditure also tends to grow. This is because the government enjoys higher tax revenues.
+3. Countries with ageing populations have to increase expenditure on pensions.
+
+
